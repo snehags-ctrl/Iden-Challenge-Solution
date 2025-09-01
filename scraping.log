@@ -33,3 +33,418 @@
 2025-09-01 10:57:47,761 - INFO - ✅ Duplicate Check: PASSED
 2025-09-01 10:57:49,072 - INFO - 🎉 Data extraction completed successfully!
 2025-09-01 10:57:49,082 - INFO - 🏁 Process finished
+2025-09-01 12:07:48,047 - INFO - 🚀 Starting Iden Challenge Data Extraction
+2025-09-01 12:07:48,047 - INFO - ==================================================
+2025-09-01 12:07:50,732 - INFO - ✅ Valid existing session found
+2025-09-01 12:07:50,748 - INFO - 🔄 Attempting to use existing session...
+2025-09-01 12:08:00,389 - WARNING - ⚠️ Session expired, will create new login
+2025-09-01 12:08:00,555 - INFO - 🆕 Creating new session...
+2025-09-01 12:08:03,646 - INFO - 🔐 Starting login process...
+2025-09-01 12:08:06,565 - INFO - ✅ Login successful
+2025-09-01 12:08:06,586 - INFO - ✅ Session saved to session.json
+2025-09-01 12:08:06,586 - INFO - 🧭 Starting navigation to product table...
+2025-09-01 12:08:06,654 - INFO - ✅ Clicked Menu button
+2025-09-01 12:08:07,701 - INFO - ✅ Clicked Data Management
+2025-09-01 12:08:08,797 - INFO - ✅ Clicked Inventory
+2025-09-01 12:08:09,852 - INFO - ✅ Clicked View All Products
+2025-09-01 12:08:19,147 - INFO - 📸 Screenshot saved as after_navigation.png
+2025-09-01 12:08:19,147 - INFO - ✅ Successfully reached product table
+2025-09-01 12:08:19,147 - INFO - ✅ Loaded 220 existing products
+2025-09-01 12:08:19,147 - INFO - 🔄 Starting scraping with 220 existing products
+2025-09-01 12:08:19,160 - INFO - 📊 Tracking 220 unique item_# and 220 unique SKUs
+2025-09-01 12:08:19,177 - INFO - 📄 Processing page 1 with 20 rows
+2025-09-01 12:08:20,160 - INFO - 🏁 Reached end of pagination
+2025-09-01 12:08:20,160 - INFO - ✅ Scraping completed: 0 new products added
+2025-09-01 12:08:20,160 - INFO - 📊 Total products: 220
+2025-09-01 12:08:20,168 - INFO - 🔢 Unique item_#: 220
+2025-09-01 12:08:20,168 - INFO - 🏷️ Unique SKUs: 220
+2025-09-01 12:08:20,173 - INFO - 📦 Created backup: products.json.backup
+2025-09-01 12:08:20,181 - INFO - ✅ Saved 220 products to products.json
+2025-09-01 12:08:20,185 - INFO - ==================================================
+2025-09-01 12:08:20,192 - INFO - 🎯 FINAL RESULTS:
+2025-09-01 12:08:20,192 - INFO - 📦 Total Products: 220
+2025-09-01 12:08:20,192 - INFO - 🔢 Unique Item Numbers: 220
+2025-09-01 12:08:20,192 - INFO - 🏷️ Unique SKUs: 220
+2025-09-01 12:08:20,192 - INFO - ✅ Duplicate Check: PASSED
+2025-09-01 12:08:20,785 - INFO - 🎉 Data extraction completed successfully!
+2025-09-01 12:08:20,810 - INFO - 🏁 Process finished
+2025-09-01 12:13:22,124 - INFO - 🚀 Starting Iden Challenge Data Extraction
+2025-09-01 12:13:22,124 - INFO - ==================================================
+2025-09-01 12:13:25,510 - INFO - ✅ Valid existing session found
+2025-09-01 12:13:25,542 - INFO - 🔄 Attempting to use existing session...
+2025-09-01 12:13:35,671 - WARNING - ⚠️ Session expired, will create new login
+2025-09-01 12:13:35,807 - INFO - 🆕 Creating new session...
+2025-09-01 12:13:39,151 - INFO - 🔐 Starting login process...
+2025-09-01 12:13:41,189 - INFO - ✅ Login successful
+2025-09-01 12:13:41,211 - INFO - ✅ Session saved to session.json
+2025-09-01 12:13:41,219 - INFO - 🧭 Starting navigation to product table...
+2025-09-01 12:13:41,506 - INFO - ✅ Clicked Menu button
+2025-09-01 12:13:42,636 - INFO - ✅ Clicked Data Management
+2025-09-01 12:13:43,706 - INFO - ✅ Clicked Inventory
+2025-09-01 12:13:44,829 - INFO - ✅ Clicked View All Products
+2025-09-01 12:13:53,669 - INFO - 📸 Screenshot saved as after_navigation.png
+2025-09-01 12:13:53,669 - INFO - ✅ Successfully reached product table
+2025-09-01 12:13:53,669 - INFO - ✅ Loaded 220 existing products
+2025-09-01 12:13:53,669 - INFO - 🔄 Starting scraping with 220 existing products
+2025-09-01 12:13:53,669 - INFO - 📊 Tracking 220 unique item_# and 220 unique SKUs
+2025-09-01 12:13:53,685 - INFO - 🔍 Analyzing table structure...
+2025-09-01 12:13:53,693 - INFO - 📊 Found 1 table elements
+2025-09-01 12:13:53,698 - INFO - 📋 Table 1: 21 rows
+2025-09-01 12:13:53,711 - INFO - 🔘 Table 1: 0 potential pagination elements
+2025-09-01 12:13:53,721 - INFO - 📄 Processing page 1 with 20 rows
+2025-09-01 12:13:55,197 - INFO - 🔍 Looking for Next button on page 1...
+2025-09-01 12:13:55,236 - INFO - 🏁 No Next button found - reached end of pagination
+2025-09-01 12:13:55,236 - INFO - ✅ Scraping completed: 0 new products added
+2025-09-01 12:13:55,236 - INFO - 📊 Total products: 220
+2025-09-01 12:13:55,236 - INFO - 🔢 Unique item_#: 220
+2025-09-01 12:13:55,236 - INFO - 🏷️ Unique SKUs: 220
+2025-09-01 12:13:55,240 - ERROR - ❌ Failed to save products: [WinError 183] Cannot create a file when that file already exists: 'products.json' -> 'products.json.backup'
+2025-09-01 12:13:55,802 - ERROR - ❌ Critical error: [WinError 183] Cannot create a file when that file already exists: 'products.json.backup' -> 'products.json'
+2025-09-01 12:13:55,802 - ERROR - Stack trace:
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\Iden_challenge_project\iden_challenge.py", line 279, in save_products_to_json
+    os.rename(filename, backup_name)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'products.json' -> 'products.json.backup'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\Iden_challenge_project\iden_challenge.py", line 526, in main
+    save_products_to_json(products)
+  File "C:\Users\HP\Desktop\Iden_challenge_project\iden_challenge.py", line 292, in save_products_to_json
+    os.rename(f"{filename}.backup", filename)
+FileExistsError: [WinError 183] Cannot create a file when that file already exists: 'products.json.backup' -> 'products.json'
+2025-09-01 12:13:55,810 - INFO - 🏁 Process finished
+2025-09-01 12:15:12,340 - INFO - 🚀 Starting Iden Challenge Data Extraction
+2025-09-01 12:15:12,340 - INFO - ==================================================
+2025-09-01 12:15:13,874 - INFO - ✅ Valid existing session found
+2025-09-01 12:15:13,889 - INFO - 🔄 Attempting to use existing session...
+2025-09-01 12:15:23,852 - WARNING - ⚠️ Session expired, will create new login
+2025-09-01 12:15:23,971 - INFO - 🆕 Creating new session...
+2025-09-01 12:15:27,380 - INFO - 🔐 Starting login process...
+2025-09-01 12:15:29,856 - INFO - ✅ Login successful
+2025-09-01 12:15:29,900 - INFO - ✅ Session saved to session.json
+2025-09-01 12:15:29,900 - INFO - 🧭 Starting navigation to product table...
+2025-09-01 12:15:31,548 - INFO - ✅ Clicked Menu button
+2025-09-01 12:15:32,663 - INFO - ✅ Clicked Data Management
+2025-09-01 12:15:33,795 - INFO - ✅ Clicked Inventory
+2025-09-01 12:15:34,896 - INFO - ✅ Clicked View All Products
+2025-09-01 12:15:46,821 - INFO - 📸 Screenshot saved as after_navigation.png
+2025-09-01 12:15:46,821 - INFO - ✅ Successfully reached product table
+2025-09-01 12:15:46,829 - INFO - ✅ Loaded 220 existing products
+2025-09-01 12:15:46,829 - INFO - 🔄 Starting scraping with 220 existing products
+2025-09-01 12:15:46,829 - INFO - 📊 Tracking 220 unique item_# and 220 unique SKUs
+2025-09-01 12:15:46,845 - INFO - 🔍 Analyzing table structure...
+2025-09-01 12:15:46,845 - INFO - 📊 Found 1 table elements
+2025-09-01 12:15:46,857 - INFO - 📋 Table 1: 21 rows
+2025-09-01 12:15:46,867 - INFO - 🔘 Table 1: 0 potential pagination elements
+2025-09-01 12:15:46,873 - INFO - 📄 Processing page 1 with 20 rows
+2025-09-01 12:15:48,152 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 12:15:48,206 - INFO - 📏 Current table height: 1680
+2025-09-01 12:15:48,214 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 12:15:51,255 - INFO - ℹ️ No new rows loaded after scroll, current total: 20
+2025-09-01 12:15:53,288 - INFO - 🆕 Additional rows found after extra scroll: 20 → 80
+2025-09-01 12:15:53,297 - INFO - 📄 Processing page 1 with 80 rows
+2025-09-01 12:15:58,545 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 12:15:58,562 - INFO - 📏 Current table height: 10280
+2025-09-01 12:15:58,571 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 12:16:01,604 - INFO - 🆕 New rows loaded: 80 → 220
+2025-09-01 12:16:01,613 - INFO - 📄 Processing page 1 with 220 rows
+2025-09-01 12:16:19,336 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 12:16:19,371 - INFO - 📏 Current table height: 32640
+2025-09-01 12:16:19,387 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 12:16:22,412 - INFO - 🆕 New rows loaded: 220 → 440
+2025-09-01 12:16:22,462 - INFO - 📄 Processing page 1 with 440 rows
+2025-09-01 12:23:17,192 - INFO - 🚀 Starting Iden Challenge Data Extraction
+2025-09-01 12:23:17,193 - INFO - ==================================================
+2025-09-01 12:23:27,225 - INFO - ✅ Valid existing session found
+2025-09-01 12:23:27,231 - INFO - 🔄 Attempting to use existing session...
+2025-09-01 12:23:37,911 - WARNING - ⚠️ Session expired, will create new login
+2025-09-01 12:23:38,078 - INFO - 🆕 Creating new session...
+2025-09-01 12:23:41,242 - INFO - 🔐 Starting login process...
+2025-09-01 12:23:43,240 - INFO - ✅ Login successful
+2025-09-01 12:23:43,254 - INFO - ✅ Session saved to session.json
+2025-09-01 12:23:43,261 - INFO - 🧭 Starting navigation to product table...
+2025-09-01 12:23:43,515 - INFO - ✅ Clicked Menu button
+2025-09-01 12:23:44,585 - INFO - ✅ Clicked Data Management
+2025-09-01 12:23:45,667 - INFO - ✅ Clicked Inventory
+2025-09-01 12:23:46,783 - INFO - ✅ Clicked View All Products
+2025-09-01 12:23:59,068 - INFO - 📸 Screenshot saved as after_navigation.png
+2025-09-01 12:23:59,072 - INFO - ✅ Successfully reached product table
+2025-09-01 12:23:59,078 - INFO - ✅ Loaded 220 existing products
+2025-09-01 12:23:59,079 - INFO - 🔄 Starting scraping with 220 existing products
+2025-09-01 12:23:59,080 - INFO - 📊 Tracking 220 unique item_# and 220 unique SKUs
+2025-09-01 12:23:59,098 - INFO - 🔍 Analyzing table structure...
+2025-09-01 12:23:59,110 - INFO - 📊 Found 1 table elements
+2025-09-01 12:23:59,115 - INFO - 📋 Table 1: 21 rows
+2025-09-01 12:23:59,125 - INFO - 🔘 Table 1: 0 potential pagination elements
+2025-09-01 12:23:59,134 - INFO - 📄 Processing page 1 with 20 rows
+2025-09-01 12:24:00,645 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 12:24:00,665 - INFO - 📏 Current table height: 3360
+2025-09-01 12:24:00,669 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 12:24:03,705 - INFO - 🆕 New rows loaded: 20 → 80
+2025-09-01 12:24:03,713 - INFO - 📄 Processing page 1 with 80 rows
+2025-09-01 12:24:07,913 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 12:24:07,928 - INFO - 📏 Current table height: 6680
+2025-09-01 12:24:07,931 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 12:24:10,955 - INFO - 🆕 New rows loaded: 80 → 100
+2025-09-01 12:24:10,967 - INFO - 📄 Processing page 1 with 100 rows
+2025-09-01 12:24:17,428 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 12:24:17,454 - INFO - 📏 Current table height: 10080
+2025-09-01 12:24:17,466 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 12:24:20,493 - INFO - 🆕 New rows loaded: 100 → 120
+2025-09-01 12:24:20,497 - INFO - 📄 Processing page 1 with 120 rows
+2025-09-01 12:24:27,433 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 12:24:27,448 - INFO - 📏 Current table height: 10080
+2025-09-01 12:24:27,453 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 12:24:30,481 - INFO - ℹ️ No new rows loaded after scroll, current total: 120
+2025-09-01 12:24:32,513 - INFO - 🏁 No more content available after infinite scroll attempts
+2025-09-01 12:24:32,513 - INFO - ✅ Scraping completed: 0 new products added
+2025-09-01 12:24:32,514 - INFO - 📊 Total products: 220
+2025-09-01 12:24:32,514 - INFO - 🔢 Unique item_#: 220
+2025-09-01 12:24:32,515 - INFO - 🏷️ Unique SKUs: 220
+2025-09-01 12:24:32,518 - INFO - 📦 Created backup: products.json.backup
+2025-09-01 12:24:32,530 - INFO - ✅ Saved 220 products to products.json
+2025-09-01 12:24:32,530 - INFO - ==================================================
+2025-09-01 12:24:32,531 - INFO - 🎯 FINAL RESULTS:
+2025-09-01 12:24:32,532 - INFO - 📦 Total Products: 220
+2025-09-01 12:24:32,533 - INFO - 🔢 Unique Item Numbers: 220
+2025-09-01 12:24:32,533 - INFO - 🏷️ Unique SKUs: 220
+2025-09-01 12:24:32,533 - INFO - ✅ Duplicate Check: PASSED
+2025-09-01 12:24:33,058 - INFO - 🎉 Data extraction completed successfully!
+2025-09-01 12:24:33,075 - INFO - 🏁 Process finished
+2025-09-01 12:50:55,739 - INFO - 🚀 Starting Iden Challenge Data Extraction
+2025-09-01 12:50:55,739 - INFO - ==================================================
+2025-09-01 12:50:58,975 - INFO - ⏹️ Process interrupted by user
+2025-09-01 12:50:58,975 - INFO - 🏁 Process finished
+2025-09-01 12:50:58,983 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-09-01 12:54:58,623 - INFO - 🚀 Starting Iden Challenge Data Extraction
+2025-09-01 12:54:58,624 - INFO - ==================================================
+2025-09-01 12:55:01,420 - INFO - ✅ Valid existing session found
+2025-09-01 12:55:01,423 - INFO - 🔄 Attempting to use existing session...
+2025-09-01 12:55:11,114 - WARNING - ⚠️ Session expired, will create new login
+2025-09-01 12:55:11,354 - INFO - 🆕 Creating new session...
+2025-09-01 12:55:14,474 - INFO - 🔐 Starting login process...
+2025-09-01 12:55:16,426 - INFO - ✅ Login successful
+2025-09-01 12:55:16,441 - INFO - ✅ Session saved to session.json
+2025-09-01 12:55:16,443 - INFO - 🧭 Starting navigation to product table...
+2025-09-01 12:55:16,658 - INFO - ✅ Clicked Menu button
+2025-09-01 12:55:17,725 - INFO - ✅ Clicked Data Management
+2025-09-01 12:55:18,796 - INFO - ✅ Clicked Inventory
+2025-09-01 12:55:19,878 - INFO - ✅ Clicked View All Products
+2025-09-01 12:55:29,259 - INFO - 📸 Screenshot saved as after_navigation.png
+2025-09-01 12:55:29,263 - INFO - ✅ Successfully reached product table
+2025-09-01 12:55:29,264 - INFO - 🔄 Starting scraping with 0 existing products
+2025-09-01 12:55:29,265 - INFO - 📊 Tracking 0 unique item_# and 0 unique SKUs
+2025-09-01 12:55:29,282 - INFO - 🔍 Analyzing table structure...
+2025-09-01 12:55:29,291 - INFO - 📊 Found 1 table elements
+2025-09-01 12:55:29,302 - INFO - 📋 Table 1: 21 rows
+2025-09-01 12:55:29,309 - INFO - 🔘 Table 1: 0 potential pagination elements
+2025-09-01 12:55:29,320 - INFO - 📄 Processing page 1 with 20 rows
+2025-09-01 12:55:29,997 - INFO - 🆕 Added 10 new products so far
+2025-09-01 12:55:30,799 - INFO - 🆕 Added 20 new products so far
+2025-09-01 12:55:30,799 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 12:55:30,830 - INFO - 📏 Current table height: 4860
+2025-09-01 12:55:30,836 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 12:55:33,851 - INFO - 🆕 New rows loaded: 20 → 140
+2025-09-01 12:55:33,865 - INFO - 📄 Processing page 1 with 140 rows
+2025-09-01 12:55:36,334 - INFO - 🆕 Added 30 new products so far
+2025-09-01 12:55:37,216 - INFO - 🆕 Added 40 new products so far
+2025-09-01 12:55:38,116 - INFO - 🆕 Added 50 new products so far
+2025-09-01 12:55:39,046 - INFO - 🆕 Added 60 new products so far
+2025-09-01 12:55:39,917 - INFO - 🆕 Added 70 new products so far
+2025-09-01 12:55:40,899 - INFO - 🆕 Added 80 new products so far
+2025-09-01 12:55:41,932 - INFO - 🆕 Added 90 new products so far
+2025-09-01 12:55:42,966 - INFO - 🆕 Added 100 new products so far
+2025-09-01 12:55:43,777 - INFO - 🆕 Added 110 new products so far
+2025-09-01 12:55:45,162 - INFO - 🆕 Added 120 new products so far
+2025-09-01 12:55:45,883 - INFO - 🆕 Added 130 new products so far
+2025-09-01 12:55:46,698 - INFO - 🆕 Added 140 new products so far
+2025-09-01 12:55:46,698 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 12:55:46,720 - INFO - 📏 Current table height: 34080
+2025-09-01 12:55:46,724 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 12:55:49,769 - INFO - 🆕 New rows loaded: 140 → 400
+2025-09-01 12:55:49,785 - INFO - 📄 Processing page 1 with 400 rows
+2025-09-01 12:56:02,176 - INFO - 🆕 Added 150 new products so far
+2025-09-01 12:56:03,029 - INFO - 🆕 Added 160 new products so far
+2025-09-01 12:56:04,077 - INFO - 🆕 Added 170 new products so far
+2025-09-01 12:56:04,841 - INFO - 🆕 Added 180 new products so far
+2025-09-01 12:56:05,573 - INFO - 🆕 Added 190 new products so far
+2025-09-01 12:56:06,326 - INFO - 🆕 Added 200 new products so far
+2025-09-01 12:56:07,060 - INFO - 🆕 Added 210 new products so far
+2025-09-01 12:56:07,847 - INFO - 🆕 Added 220 new products so far
+2025-09-01 12:56:08,597 - INFO - 🆕 Added 230 new products so far
+2025-09-01 12:56:09,345 - INFO - 🆕 Added 240 new products so far
+2025-09-01 12:56:10,077 - INFO - 🆕 Added 250 new products so far
+2025-09-01 12:56:10,810 - INFO - 🆕 Added 260 new products so far
+2025-09-01 12:56:11,576 - INFO - 🆕 Added 270 new products so far
+2025-09-01 12:56:12,309 - INFO - 🆕 Added 280 new products so far
+2025-09-01 12:56:13,046 - INFO - 🆕 Added 290 new products so far
+2025-09-01 12:56:13,795 - INFO - 🆕 Added 300 new products so far
+2025-09-01 12:56:14,611 - INFO - 🆕 Added 310 new products so far
+2025-09-01 12:56:15,327 - INFO - 🆕 Added 320 new products so far
+2025-09-01 12:56:16,060 - INFO - 🆕 Added 330 new products so far
+2025-09-01 12:56:16,826 - INFO - 🆕 Added 340 new products so far
+2025-09-01 12:56:17,577 - INFO - 🆕 Added 350 new products so far
+2025-09-01 12:56:18,312 - INFO - 🆕 Added 360 new products so far
+2025-09-01 12:56:19,042 - INFO - 🆕 Added 370 new products so far
+2025-09-01 12:56:19,760 - INFO - 🆕 Added 380 new products so far
+2025-09-01 12:56:20,476 - INFO - 🆕 Added 390 new products so far
+2025-09-01 12:56:21,210 - INFO - 🆕 Added 400 new products so far
+2025-09-01 12:56:21,210 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 12:56:21,235 - INFO - 📏 Current table height: 34080
+2025-09-01 12:56:21,245 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 12:56:24,395 - INFO - ℹ️ No new rows loaded after scroll, current total: 400
+2025-09-01 12:56:26,425 - INFO - 🏁 No more content available after infinite scroll attempts
+2025-09-01 12:56:26,425 - INFO - ✅ Scraping completed: 400 new products added
+2025-09-01 12:56:26,432 - INFO - 📊 Total products: 400
+2025-09-01 12:56:26,432 - INFO - 🔢 Unique item_#: 400
+2025-09-01 12:56:26,432 - INFO - 🏷️ Unique SKUs: 400
+2025-09-01 12:56:26,453 - INFO - ✅ Saved 400 products to products.json
+2025-09-01 12:56:26,456 - INFO - ==================================================
+2025-09-01 12:56:26,456 - INFO - 🎯 FINAL RESULTS:
+2025-09-01 12:56:26,456 - INFO - 📦 Total Products: 400
+2025-09-01 12:56:26,458 - INFO - 🔢 Unique Item Numbers: 400
+2025-09-01 12:56:26,461 - INFO - 🏷️ Unique SKUs: 400
+2025-09-01 12:56:26,462 - INFO - ✅ Duplicate Check: PASSED
+2025-09-01 12:56:26,946 - INFO - 🎉 Data extraction completed successfully!
+2025-09-01 12:56:26,965 - INFO - 🏁 Process finished
+2025-09-01 13:00:36,787 - INFO - 🚀 Starting Iden Challenge Data Extraction
+2025-09-01 13:00:36,787 - INFO - ==================================================
+2025-09-01 13:00:38,589 - INFO - ✅ Valid existing session found
+2025-09-01 13:00:38,608 - INFO - 🔄 Attempting to use existing session...
+2025-09-01 13:00:48,246 - WARNING - ⚠️ Session expired, will create new login
+2025-09-01 13:00:48,366 - INFO - 🆕 Creating new session...
+2025-09-01 13:00:51,522 - INFO - 🔐 Starting login process...
+2025-09-01 13:00:53,521 - INFO - ✅ Login successful
+2025-09-01 13:00:53,538 - INFO - ✅ Session saved to session.json
+2025-09-01 13:00:53,540 - INFO - 🧭 Starting navigation to product table...
+2025-09-01 13:00:54,121 - INFO - ✅ Clicked Menu button
+2025-09-01 13:00:55,192 - INFO - ✅ Clicked Data Management
+2025-09-01 13:00:56,387 - INFO - ✅ Clicked Inventory
+2025-09-01 13:00:57,459 - INFO - ✅ Clicked View All Products
+2025-09-01 13:01:06,825 - INFO - 📸 Screenshot saved as after_navigation.png
+2025-09-01 13:01:06,826 - INFO - ✅ Successfully reached product table
+2025-09-01 13:01:06,829 - INFO - ✅ Loaded 400 existing products
+2025-09-01 13:01:06,831 - INFO - 🔄 Starting scraping with 400 existing products
+2025-09-01 13:01:06,833 - INFO - 📊 Tracking 400 unique item_# and 400 unique SKUs
+2025-09-01 13:01:06,833 - INFO - 🧮 Threshold active: only saving item_# > 399
+2025-09-01 13:01:06,849 - INFO - 🔍 Analyzing table structure...
+2025-09-01 13:01:06,856 - INFO - 📊 Found 1 table elements
+2025-09-01 13:01:06,865 - INFO - 📋 Table 1: 21 rows
+2025-09-01 13:01:06,873 - INFO - 🔘 Table 1: 0 potential pagination elements
+2025-09-01 13:01:06,885 - INFO - 📄 Processing page 1 with 20 rows
+2025-09-01 13:01:08,724 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 13:01:08,762 - INFO - 📏 Current table height: 4960
+2025-09-01 13:01:08,785 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 13:01:11,815 - INFO - 🆕 New rows loaded: 20 → 140
+2025-09-01 13:01:11,816 - INFO - 📄 Processing page 1 with 140 rows
+2025-09-01 13:01:25,669 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 13:01:25,721 - INFO - 📏 Current table height: 42880
+2025-09-01 13:01:25,727 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 13:01:28,774 - INFO - 🆕 New rows loaded: 140 → 580
+2025-09-01 13:01:28,790 - INFO - 📄 Processing page 1 with 580 rows
+2025-09-01 13:02:24,036 - ERROR - ❌ Failed to process row 355 after 5 attempts: Locator.all: Target page, context or browser has been closed
+2025-09-01 13:02:26,093 - ERROR - ❌ Failed to process row 356 after 5 attempts: Locator.all: Target page, context or browser has been closed
+2025-09-01 13:02:28,163 - ERROR - ❌ Failed to process row 357 after 5 attempts: Locator.all: Target page, context or browser has been closed
+2025-09-01 13:02:30,211 - ERROR - ❌ Failed to process row 358 after 5 attempts: Locator.all: Target page, context or browser has been closed
+2025-09-01 13:02:32,254 - ERROR - ❌ Failed to process row 359 after 5 attempts: Locator.all: Target page, context or browser has been closed
+2025-09-01 13:02:34,330 - ERROR - ❌ Failed to process row 360 after 5 attempts: Locator.all: Target page, context or browser has been closed
+2025-09-01 13:02:36,375 - ERROR - ❌ Failed to process row 361 after 5 attempts: Locator.all: Target page, context or browser has been closed
+2025-09-01 13:02:38,433 - ERROR - ❌ Failed to process row 362 after 5 attempts: Locator.all: Target page, context or browser has been closed
+2025-09-01 13:02:40,515 - ERROR - ❌ Failed to process row 363 after 5 attempts: Locator.all: Target page, context or browser has been closed
+2025-09-01 13:02:42,579 - ERROR - ❌ Failed to process row 364 after 5 attempts: Locator.all: Target page, context or browser has been closed
+2025-09-01 13:02:44,630 - ERROR - ❌ Failed to process row 365 after 5 attempts: Locator.all: Target page, context or browser has been closed
+2025-09-01 13:02:46,690 - ERROR - ❌ Failed to process row 366 after 5 attempts: Locator.all: Target page, context or browser has been closed
+2025-09-01 13:02:48,748 - ERROR - ❌ Failed to process row 367 after 5 attempts: Locator.all: Target page, context or browser has been closed
+2025-09-01 13:02:50,790 - ERROR - ❌ Failed to process row 368 after 5 attempts: Locator.all: Target page, context or browser has been closed
+2025-09-01 13:02:52,910 - INFO - ⏹️ Process interrupted by user
+2025-09-01 13:02:52,910 - INFO - 🏁 Process finished
+2025-09-01 13:07:12,100 - INFO - 🚀 Starting Iden Challenge Data Extraction
+2025-09-01 13:07:12,100 - INFO - ==================================================
+2025-09-01 13:07:13,768 - INFO - ✅ Valid existing session found
+2025-09-01 13:07:13,773 - INFO - 🔄 Attempting to use existing session...
+2025-09-01 13:07:23,361 - WARNING - ⚠️ Session expired, will create new login
+2025-09-01 13:07:23,497 - INFO - 🆕 Creating new session...
+2025-09-01 13:07:25,671 - INFO - 🔐 Starting login process...
+2025-09-01 13:07:27,636 - INFO - ✅ Login successful
+2025-09-01 13:07:27,656 - INFO - ✅ Session saved to session.json
+2025-09-01 13:07:27,665 - INFO - 🧭 Starting navigation to product table...
+2025-09-01 13:07:27,905 - INFO - ✅ Clicked Menu button
+2025-09-01 13:07:28,998 - INFO - ✅ Clicked Data Management
+2025-09-01 13:07:30,098 - INFO - ✅ Clicked Inventory
+2025-09-01 13:07:31,174 - INFO - ✅ Clicked View All Products
+2025-09-01 13:07:41,574 - INFO - 📸 Screenshot saved as after_navigation.png
+2025-09-01 13:07:41,578 - INFO - ✅ Successfully reached product table
+2025-09-01 13:07:41,583 - INFO - ✅ Loaded 400 existing products
+2025-09-01 13:07:41,584 - INFO - 🔄 Starting scraping with 400 existing products
+2025-09-01 13:07:41,584 - INFO - 📊 Tracking 400 unique item_# and 400 unique SKUs
+2025-09-01 13:07:41,604 - INFO - 🔍 Analyzing table structure...
+2025-09-01 13:07:41,618 - INFO - 📊 Found 1 table elements
+2025-09-01 13:07:41,627 - INFO - 📋 Table 1: 21 rows
+2025-09-01 13:07:41,640 - INFO - 🔘 Table 1: 0 potential pagination elements
+2025-09-01 13:07:41,651 - INFO - 📄 Processing page 1 with 20 rows
+2025-09-01 13:07:43,085 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 13:07:43,112 - INFO - 📏 Current table height: 3260
+2025-09-01 13:07:43,142 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 13:07:46,162 - INFO - 🆕 New rows loaded: 20 → 120
+2025-09-01 13:07:46,167 - INFO - 📄 Processing page 1 with 120 rows
+2025-09-01 13:07:56,731 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 13:07:56,753 - INFO - 📏 Current table height: 30740
+2025-09-01 13:07:56,761 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 13:07:59,798 - INFO - 🆕 New rows loaded: 120 → 400
+2025-09-01 13:07:59,816 - INFO - 📄 Processing page 1 with 400 rows
+2025-09-01 13:08:41,310 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 13:08:41,332 - INFO - 📏 Current table height: 59080
+2025-09-01 13:08:41,333 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 13:08:44,372 - INFO - 🆕 New rows loaded: 400 → 680
+2025-09-01 13:08:44,393 - INFO - 📄 Processing page 1 with 680 rows
+2025-09-01 13:09:26,291 - INFO - 🆕 Added 10 new products so far
+2025-09-01 13:09:27,270 - INFO - 🆕 Added 20 new products so far
+2025-09-01 13:09:28,237 - INFO - 🆕 Added 30 new products so far
+2025-09-01 13:09:29,204 - INFO - 🆕 Added 40 new products so far
+2025-09-01 13:09:30,204 - INFO - 🆕 Added 50 new products so far
+2025-09-01 13:09:31,239 - INFO - 🆕 Added 60 new products so far
+2025-09-01 13:09:32,224 - INFO - 🆕 Added 70 new products so far
+2025-09-01 13:09:33,222 - INFO - 🆕 Added 80 new products so far
+2025-09-01 13:09:34,203 - INFO - 🆕 Added 90 new products so far
+2025-09-01 13:09:35,186 - INFO - 🆕 Added 100 new products so far
+2025-09-01 13:09:36,171 - INFO - 🆕 Added 110 new products so far
+2025-09-01 13:09:37,136 - INFO - 🆕 Added 120 new products so far
+2025-09-01 13:09:38,102 - INFO - 🆕 Added 130 new products so far
+2025-09-01 13:09:39,073 - INFO - 🆕 Added 140 new products so far
+2025-09-01 13:09:40,071 - INFO - 🆕 Added 150 new products so far
+2025-09-01 13:09:41,070 - INFO - 🆕 Added 160 new products so far
+2025-09-01 13:09:42,056 - INFO - 🆕 Added 170 new products so far
+2025-09-01 13:09:43,086 - INFO - 🆕 Added 180 new products so far
+2025-09-01 13:09:44,054 - INFO - 🆕 Added 190 new products so far
+2025-09-01 13:09:45,022 - INFO - 🆕 Added 200 new products so far
+2025-09-01 13:09:46,018 - INFO - 🆕 Added 210 new products so far
+2025-09-01 13:09:47,023 - INFO - 🆕 Added 220 new products so far
+2025-09-01 13:09:48,008 - INFO - 🆕 Added 230 new products so far
+2025-09-01 13:09:49,057 - INFO - 🆕 Added 240 new products so far
+2025-09-01 13:09:50,021 - INFO - 🆕 Added 250 new products so far
+2025-09-01 13:09:50,971 - INFO - 🆕 Added 260 new products so far
+2025-09-01 13:09:51,937 - INFO - 🆕 Added 270 new products so far
+2025-09-01 13:09:53,069 - INFO - 🆕 Added 280 new products so far
+2025-09-01 13:09:53,069 - INFO - 🔄 Implementing infinite scroll for page 1...
+2025-09-01 13:09:53,092 - INFO - 📏 Current table height: 59080
+2025-09-01 13:09:53,110 - INFO - ⬇️ Scrolled to bottom of table
+2025-09-01 13:09:56,135 - INFO - ℹ️ No new rows loaded after scroll, current total: 680
+2025-09-01 13:09:58,191 - INFO - 🏁 No more content available after infinite scroll attempts
+2025-09-01 13:09:58,191 - INFO - ✅ Scraping completed: 280 new products added
+2025-09-01 13:09:58,191 - INFO - 📊 Total products: 680
+2025-09-01 13:09:58,191 - INFO - 🔢 Unique item_#: 680
+2025-09-01 13:09:58,191 - INFO - 🏷️ Unique SKUs: 680
+2025-09-01 13:09:58,206 - INFO - 📦 Created backup: products.json.backup
+2025-09-01 13:09:58,230 - INFO - ✅ Saved 680 products to products.json
+2025-09-01 13:09:58,231 - INFO - ==================================================
+2025-09-01 13:09:58,231 - INFO - 🎯 FINAL RESULTS:
+2025-09-01 13:09:58,232 - INFO - 📦 Total Products: 680
+2025-09-01 13:09:58,232 - INFO - 🔢 Unique Item Numbers: 680
+2025-09-01 13:09:58,232 - INFO - 🏷️ Unique SKUs: 680
+2025-09-01 13:09:58,233 - INFO - ✅ Duplicate Check: PASSED
+2025-09-01 13:09:59,040 - INFO - 🎉 Data extraction completed successfully!
+2025-09-01 13:09:59,079 - INFO - 🏁 Process finished

@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "export_timestamp": "2025-09-01T00:03:44.796788",
+    "analysis_type": "product_statistics"
+  },
+  "summary": {
+    "total_products": 620,
+    "total_value": "$314,816.70",
+    "average_cost": "$507.77",
+    "total_weight": "6435.75 kg",
+    "average_weight": "10.38 kg"
+  },
+  "category_breakdown": {
+    "Garden": 67,
+    "Electronics": 46,
+    "Toys": 63,
+    "Clothing": 63,
+    "Books": 51,
+    "Automotive": 50,
+    "Home & Kitchen": 51,
+    "Health": 68,
+    "Office": 61,
+    "Sports": 60,
+    "Beauty": 40
+  },
+  "cost_analysis": {
+    "total_value": 314816.7000000001,
+    "average_cost": 507.76887096774215,
+    "value_per_product": 507.76887096774215
+  },
+  "weight_analysis": {
+    "total_weight": 6435.7499999999945,
+    "average_weight": 10.380241935483863,
+    "weight_per_product": 10.380241935483863
+  }
+}

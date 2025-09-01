@@ -1,0 +1,31 @@
+PRODUCT DATA EXTRACTION SUMMARY REPORT
+==================================================
+
+Export Date: 2025-08-31 23:10:07
+Total Products: 620
+Total Value: $314,816.70
+Total Weight: 6435.75 kg
+
+CATEGORY BREAKDOWN:
+--------------------
+Health: 68 products (11.0%)
+Garden: 67 products (10.8%)
+Toys: 63 products (10.2%)
+Clothing: 63 products (10.2%)
+Office: 61 products (9.8%)
+Sports: 60 products (9.7%)
+Books: 51 products (8.2%)
+Home & Kitchen: 51 products (8.2%)
+Automotive: 50 products (8.1%)
+Electronics: 46 products (7.4%)
+Beauty: 40 products (6.5%)
+
+COST ANALYSIS:
+---------------
+Average Cost: $507.77
+Cost Range: $10.62 - $999.47
+
+WEIGHT ANALYSIS:
+----------------
+Average Weight: 10.38 kg
+Weight Range: 0.22 - 20.10 kg

@@ -1,0 +1,6212 @@
+[
+  [
+    "item_#",
+    "sku",
+    "product",
+    "type",
+    "cost",
+    "weight_(kg)",
+    "dimensions",
+    "details"
+  ],
+  [
+    "0",
+    "GAR-5277-0",
+    "Smart Garden Series",
+    "Garden",
+    "$581.10",
+    "3.87",
+    "33×45×34 cm",
+    "A lightweight, professional garden product. The Smart Garden Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "ELE-1224-1",
+    "Classic Electronics Device",
+    "Electronics",
+    "$977.80",
+    "19.67",
+    "42×47×16 cm",
+    "A innovative, high-quality electronics product. The Classic Electronics Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "TOY-2546-2",
+    "Classic Toys Solution",
+    "Toys",
+    "$419.60",
+    "0.22",
+    "42×40×14 cm",
+    "A lightweight, innovative toys product. The Classic Toys Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "CLO-6496-3",
+    "Smart Clothing Package",
+    "Clothing",
+    "$867.14",
+    "0.27",
+    "21×54×12 cm",
+    "A ergonomic, innovative clothing product. The Smart Clothing Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "BOO-6803-4",
+    "Ultimate Books Max",
+    "Books",
+    "$874.92",
+    "12.26",
+    "39×10×14 cm",
+    "A innovative, versatile books product. The Ultimate Books Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "GAR-4408-5",
+    "Essential Garden Solution",
+    "Garden",
+    "$327.17",
+    "3.25",
+    "41×5×27 cm",
+    "A high-quality, lightweight garden product. The Essential Garden Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "ELE-7693-6",
+    "Advanced Electronics Kit",
+    "Electronics",
+    "$102.49",
+    "9.64",
+    "30×10×30 cm",
+    "A high-quality, efficient electronics product. The Advanced Electronics Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "AUT-9279-7",
+    "Luxury Automotive System",
+    "Automotive",
+    "$491.43",
+    "4.85",
+    "8×10×21 cm",
+    "A stylish, powerful automotive product. The Luxury Automotive System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "HOM-2690-8",
+    "Compact Home & Kitchen Max",
+    "Home & Kitchen",
+    "$18.33",
+    "10.53",
+    "28×10×9 cm",
+    "A powerful, compact home & kitchen product. The Compact Home & Kitchen Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "TOY-0087-9",
+    "Professional Toys Package",
+    "Toys",
+    "$639.87",
+    "8.86",
+    "53×18×22 cm",
+    "A stylish, ergonomic toys product. The Professional Toys Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "HEA-2131-10",
+    "Portable Health Max",
+    "Health",
+    "$888.30",
+    "8.98",
+    "10×13×30 cm",
+    "A compact, compact health product. The Portable Health Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "GAR-4318-11",
+    "Advanced Garden Lite",
+    "Garden",
+    "$716.59",
+    "6.38",
+    "35×32×20 cm",
+    "A portable, professional garden product. The Advanced Garden Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "HEA-9374-12",
+    "Eco-friendly Health Set",
+    "Health",
+    "$140.63",
+    "11.86",
+    "18×10×34 cm",
+    "A powerful, powerful health product. The Eco-friendly Health Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "OFF-8772-13",
+    "Deluxe Office Kit",
+    "Office",
+    "$140.52",
+    "2.48",
+    "37×37×34 cm",
+    "A high-quality, durable office product. The Deluxe Office Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "BOO-3793-14",
+    "Professional Books Plus",
+    "Books",
+    "$268.44",
+    "7.01",
+    "21×50×7 cm",
+    "A durable, compact books product. The Professional Books Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "SPO-7943-15",
+    "Compact Sports Ultra",
+    "Sports",
+    "$870.82",
+    "7.1",
+    "39×41×14 cm",
+    "A portable, eco-friendly sports product. The Compact Sports Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "ELE-7774-16",
+    "Smart Electronics Bundle",
+    "Electronics",
+    "$26.86",
+    "19.26",
+    "24×18×33 cm",
+    "A versatile, portable electronics product. The Smart Electronics Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "OFF-2549-17",
+    "Compact Office Set",
+    "Office",
+    "$142.44",
+    "11.79",
+    "41×14×32 cm",
+    "A eco-friendly, stylish office product. The Compact Office Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "CLO-0592-18",
+    "Portable Clothing Collection",
+    "Clothing",
+    "$526.86",
+    "3.22",
+    "44×7×25 cm",
+    "A professional, durable clothing product. The Portable Clothing Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "BEA-6814-19",
+    "Portable Beauty Lite",
+    "Beauty",
+    "$309.05",
+    "17.41",
+    "38×21×18 cm",
+    "A stylish, durable beauty product. The Portable Beauty Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "20",
+    "ELE-6658-20",
+    "Essential Electronics Series",
+    "Electronics",
+    "$33.20",
+    "5.66",
+    "31×16×30 cm",
+    "A premium, professional electronics product. The Essential Electronics Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "21",
+    "OFF-6759-21",
+    "Modern Office System",
+    "Office",
+    "$292.56",
+    "7.39",
+    "18×44×29 cm",
+    "A eco-friendly, professional office product. The Modern Office System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "22",
+    "CLO-0694-22",
+    "Advanced Clothing Set",
+    "Clothing",
+    "$607.32",
+    "16.03",
+    "38×5×32 cm",
+    "A compact, high-quality clothing product. The Advanced Clothing Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "23",
+    "SPO-5444-23",
+    "Premium Sports Max",
+    "Sports",
+    "$742.75",
+    "19.23",
+    "8×7×7 cm",
+    "A premium, affordable sports product. The Premium Sports Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "24",
+    "CLO-2017-24",
+    "Compact Clothing Bundle",
+    "Clothing",
+    "$563.21",
+    "18.73",
+    "17×7×9 cm",
+    "A lightweight, ergonomic clothing product. The Compact Clothing Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "25",
+    "GAR-8434-25",
+    "Innovative Garden System",
+    "Garden",
+    "$355.79",
+    "0.36",
+    "54×21×27 cm",
+    "A portable, versatile garden product. The Innovative Garden System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "26",
+    "ELE-7179-26",
+    "Modern Electronics Max",
+    "Electronics",
+    "$240.51",
+    "17.94",
+    "25×13×10 cm",
+    "A premium, compact electronics product. The Modern Electronics Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "27",
+    "SPO-9709-27",
+    "Ultimate Sports Max",
+    "Sports",
+    "$571.53",
+    "2.19",
+    "32×42×17 cm",
+    "A powerful, ergonomic sports product. The Ultimate Sports Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "28",
+    "SPO-3453-28",
+    "Luxury Sports Collection",
+    "Sports",
+    "$752.46",
+    "7.13",
+    "54×40×15 cm",
+    "A durable, ergonomic sports product. The Luxury Sports Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "29",
+    "OFF-9738-29",
+    "Innovative Office Max",
+    "Office",
+    "$278.51",
+    "9.75",
+    "33×54×20 cm",
+    "A durable, high-quality office product. The Innovative Office Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "30",
+    "BEA-4019-30",
+    "Smart Beauty Package",
+    "Beauty",
+    "$87.64",
+    "12.39",
+    "49×13×26 cm",
+    "A innovative, innovative beauty product. The Smart Beauty Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "31",
+    "GAR-0931-31",
+    "Ultimate Garden Kit",
+    "Garden",
+    "$194.73",
+    "3.76",
+    "37×16×13 cm",
+    "A versatile, lightweight garden product. The Ultimate Garden Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "32",
+    "HOM-7257-32",
+    "Classic Home & Kitchen Lite",
+    "Home & Kitchen",
+    "$716.65",
+    "12.26",
+    "44×43×6 cm",
+    "A high-quality, eco-friendly home & kitchen product. The Classic Home & Kitchen Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "33",
+    "TOY-7777-33",
+    "Modern Toys Solution",
+    "Toys",
+    "$295.85",
+    "6.07",
+    "32×30×28 cm",
+    "A professional, eco-friendly toys product. The Modern Toys Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "34",
+    "SPO-6194-34",
+    "Advanced Sports Set",
+    "Sports",
+    "$491.22",
+    "18.82",
+    "7×38×30 cm",
+    "A durable, premium sports product. The Advanced Sports Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "35",
+    "HEA-0096-35",
+    "Advanced Health Package",
+    "Health",
+    "$977.13",
+    "18.15",
+    "23×45×12 cm",
+    "A premium, versatile health product. The Advanced Health Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "36",
+    "BEA-4003-36",
+    "Luxury Beauty Lite",
+    "Beauty",
+    "$987.80",
+    "0.56",
+    "42×28×25 cm",
+    "A affordable, ergonomic beauty product. The Luxury Beauty Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "37",
+    "OFF-8299-37",
+    "Premium Office Tool",
+    "Office",
+    "$941.73",
+    "18.87",
+    "32×25×29 cm",
+    "A versatile, versatile office product. The Premium Office Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "38",
+    "AUT-7023-38",
+    "Premium Automotive Plus",
+    "Automotive",
+    "$41.46",
+    "1.75",
+    "21×48×14 cm",
+    "A premium, compact automotive product. The Premium Automotive Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "39",
+    "GAR-7820-39",
+    "Deluxe Garden Kit",
+    "Garden",
+    "$28.38",
+    "3.28",
+    "52×44×7 cm",
+    "A durable, powerful garden product. The Deluxe Garden Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "40",
+    "BOO-4785-40",
+    "Portable Books Ultra",
+    "Books",
+    "$395.08",
+    "10.59",
+    "16×50×34 cm",
+    "A ergonomic, versatile books product. The Portable Books Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "41",
+    "HEA-9387-41",
+    "Modern Health Ultra",
+    "Health",
+    "$756.01",
+    "8.41",
+    "17×5×26 cm",
+    "A high-quality, stylish health product. The Modern Health Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "42",
+    "GAR-6430-42",
+    "Ultimate Garden Pro",
+    "Garden",
+    "$97.45",
+    "19.28",
+    "53×29×22 cm",
+    "A affordable, professional garden product. The Ultimate Garden Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "43",
+    "GAR-4376-43",
+    "Professional Garden Max",
+    "Garden",
+    "$300.21",
+    "7.12",
+    "26×38×8 cm",
+    "A eco-friendly, durable garden product. The Professional Garden Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "44",
+    "AUT-1982-44",
+    "Deluxe Automotive Set",
+    "Automotive",
+    "$995.86",
+    "10.11",
+    "51×16×14 cm",
+    "A high-quality, durable automotive product. The Deluxe Automotive Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "45",
+    "HOM-4545-45",
+    "Budget Home & Kitchen Bundle",
+    "Home & Kitchen",
+    "$348.72",
+    "10.27",
+    "52×7×15 cm",
+    "A professional, stylish home & kitchen product. The Budget Home & Kitchen Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "46",
+    "TOY-7104-46",
+    "Classic Toys Lite",
+    "Toys",
+    "$466.50",
+    "16.82",
+    "28×37×26 cm",
+    "A high-quality, ergonomic toys product. The Classic Toys Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "47",
+    "OFF-5935-47",
+    "Innovative Office Tool",
+    "Office",
+    "$225.57",
+    "2.75",
+    "45×12×23 cm",
+    "A innovative, eco-friendly office product. The Innovative Office Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "48",
+    "AUT-9122-48",
+    "Essential Automotive Plus",
+    "Automotive",
+    "$271.21",
+    "3.72",
+    "23×24×18 cm",
+    "A high-quality, professional automotive product. The Essential Automotive Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "49",
+    "GAR-8127-49",
+    "Compact Garden Max",
+    "Garden",
+    "$977.28",
+    "13.95",
+    "46×47×17 cm",
+    "A ergonomic, innovative garden product. The Compact Garden Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "50",
+    "TOY-7388-50",
+    "Luxury Toys Plus",
+    "Toys",
+    "$929.79",
+    "16.18",
+    "42×44×31 cm",
+    "A professional, premium toys product. The Luxury Toys Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "51",
+    "AUT-1866-51",
+    "Modern Automotive Plus",
+    "Automotive",
+    "$888.68",
+    "6.4",
+    "16×46×25 cm",
+    "A efficient, eco-friendly automotive product. The Modern Automotive Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "52",
+    "CLO-0389-52",
+    "Modern Clothing Collection",
+    "Clothing",
+    "$670.00",
+    "16.79",
+    "40×54×30 cm",
+    "A compact, versatile clothing product. The Modern Clothing Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "53",
+    "TOY-1358-53",
+    "Innovative Toys Max",
+    "Toys",
+    "$160.30",
+    "19.75",
+    "54×52×15 cm",
+    "A versatile, lightweight toys product. The Innovative Toys Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "54",
+    "SPO-2724-54",
+    "Compact Sports Collection",
+    "Sports",
+    "$448.78",
+    "6.23",
+    "31×37×34 cm",
+    "A powerful, high-quality sports product. The Compact Sports Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "55",
+    "CLO-8781-55",
+    "Classic Clothing Series",
+    "Clothing",
+    "$452.47",
+    "4.3",
+    "50×29×25 cm",
+    "A powerful, lightweight clothing product. The Classic Clothing Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "56",
+    "CLO-4596-56",
+    "Professional Clothing Pro",
+    "Clothing",
+    "$418.89",
+    "17.83",
+    "45×50×10 cm",
+    "A affordable, innovative clothing product. The Professional Clothing Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "57",
+    "OFF-4615-57",
+    "Modern Office Pro",
+    "Office",
+    "$353.01",
+    "17.11",
+    "10×51×13 cm",
+    "A portable, eco-friendly office product. The Modern Office Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "58",
+    "BOO-2036-58",
+    "Portable Books Bundle",
+    "Books",
+    "$488.94",
+    "17.86",
+    "9×37×34 cm",
+    "A versatile, premium books product. The Portable Books Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "59",
+    "SPO-6795-59",
+    "Compact Sports Bundle",
+    "Sports",
+    "$771.89",
+    "7.79",
+    "11×50×14 cm",
+    "A innovative, efficient sports product. The Compact Sports Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "60",
+    "ELE-8207-60",
+    "Innovative Electronics System",
+    "Electronics",
+    "$859.25",
+    "14.37",
+    "35×44×29 cm",
+    "A durable, premium electronics product. The Innovative Electronics System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "61",
+    "CLO-0961-61",
+    "Smart Clothing Kit",
+    "Clothing",
+    "$424.08",
+    "11.82",
+    "20×30×32 cm",
+    "A versatile, innovative clothing product. The Smart Clothing Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "62",
+    "CLO-3991-62",
+    "Eco-friendly Clothing Kit",
+    "Clothing",
+    "$288.11",
+    "7.34",
+    "42×21×18 cm",
+    "A professional, powerful clothing product. The Eco-friendly Clothing Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "63",
+    "HOM-3953-63",
+    "Budget Home & Kitchen Solution",
+    "Home & Kitchen",
+    "$663.36",
+    "1.65",
+    "30×14×24 cm",
+    "A durable, lightweight home & kitchen product. The Budget Home & Kitchen Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "64",
+    "BEA-8500-64",
+    "Portable Beauty Bundle",
+    "Beauty",
+    "$628.70",
+    "8.5",
+    "42×40×6 cm",
+    "A affordable, affordable beauty product. The Portable Beauty Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "65",
+    "AUT-6074-65",
+    "Portable Automotive Device",
+    "Automotive",
+    "$966.20",
+    "18.1",
+    "16×54×34 cm",
+    "A efficient, premium automotive product. The Portable Automotive Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "66",
+    "CLO-0895-66",
+    "Eco-friendly Clothing Set",
+    "Clothing",
+    "$453.89",
+    "0.72",
+    "5×43×30 cm",
+    "A ergonomic, durable clothing product. The Eco-friendly Clothing Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "67",
+    "OFF-8815-67",
+    "Compact Office Plus",
+    "Office",
+    "$328.69",
+    "17.47",
+    "38×9×8 cm",
+    "A premium, durable office product. The Compact Office Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "68",
+    "SPO-0474-68",
+    "Portable Sports System",
+    "Sports",
+    "$570.90",
+    "8.89",
+    "29×50×33 cm",
+    "A versatile, premium sports product. The Portable Sports System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "69",
+    "TOY-2305-69",
+    "Premium Toys Ultra",
+    "Toys",
+    "$434.42",
+    "19.26",
+    "44×38×14 cm",
+    "A durable, stylish toys product. The Premium Toys Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "70",
+    "SPO-4627-70",
+    "Ultimate Sports System",
+    "Sports",
+    "$986.11",
+    "10.81",
+    "15×22×7 cm",
+    "A high-quality, durable sports product. The Ultimate Sports System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "71",
+    "OFF-7227-71",
+    "Ultimate Office Max",
+    "Office",
+    "$376.91",
+    "7.95",
+    "45×36×10 cm",
+    "A durable, innovative office product. The Ultimate Office Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "72",
+    "GAR-1705-72",
+    "Advanced Garden Pro",
+    "Garden",
+    "$746.97",
+    "3.17",
+    "10×9×18 cm",
+    "A portable, affordable garden product. The Advanced Garden Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "73",
+    "AUT-7424-73",
+    "Luxury Automotive Device",
+    "Automotive",
+    "$407.14",
+    "12.37",
+    "6×49×13 cm",
+    "A portable, stylish automotive product. The Luxury Automotive Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "74",
+    "AUT-6010-74",
+    "Eco-friendly Automotive Lite",
+    "Automotive",
+    "$771.28",
+    "2.53",
+    "9×12×22 cm",
+    "A compact, ergonomic automotive product. The Eco-friendly Automotive Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "75",
+    "ELE-1629-75",
+    "Premium Electronics Max",
+    "Electronics",
+    "$993.78",
+    "11.4",
+    "33×32×8 cm",
+    "A high-quality, ergonomic electronics product. The Premium Electronics Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "76",
+    "AUT-5973-76",
+    "Ultimate Automotive Pro",
+    "Automotive",
+    "$600.99",
+    "7.86",
+    "48×21×30 cm",
+    "A portable, high-quality automotive product. The Ultimate Automotive Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "77",
+    "ELE-6468-77",
+    "Innovative Electronics Device",
+    "Electronics",
+    "$883.39",
+    "14.65",
+    "31×40×16 cm",
+    "A versatile, powerful electronics product. The Innovative Electronics Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "78",
+    "SPO-6694-78",
+    "Deluxe Sports Pro",
+    "Sports",
+    "$259.89",
+    "16.37",
+    "26×30×19 cm",
+    "A affordable, compact sports product. The Deluxe Sports Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "79",
+    "OFF-0696-79",
+    "Eco-friendly Office Plus",
+    "Office",
+    "$787.51",
+    "2.88",
+    "23×30×21 cm",
+    "A durable, powerful office product. The Eco-friendly Office Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "80",
+    "HOM-6974-80",
+    "Compact Home & Kitchen Package",
+    "Home & Kitchen",
+    "$53.33",
+    "4.72",
+    "26×7×28 cm",
+    "A premium, portable home & kitchen product. The Compact Home & Kitchen Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "81",
+    "SPO-8460-81",
+    "Smart Sports Ultra",
+    "Sports",
+    "$999.47",
+    "1.7",
+    "54×12×10 cm",
+    "A compact, durable sports product. The Smart Sports Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "82",
+    "CLO-2014-82",
+    "Ultimate Clothing Max",
+    "Clothing",
+    "$779.44",
+    "13.45",
+    "54×5×7 cm",
+    "A durable, stylish clothing product. The Ultimate Clothing Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "83",
+    "TOY-4062-83",
+    "Modern Toys Kit",
+    "Toys",
+    "$474.42",
+    "14.16",
+    "20×30×20 cm",
+    "A compact, professional toys product. The Modern Toys Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "84",
+    "BOO-4517-84",
+    "Eco-friendly Books Series",
+    "Books",
+    "$838.60",
+    "2.6",
+    "39×44×18 cm",
+    "A lightweight, portable books product. The Eco-friendly Books Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "85",
+    "HEA-1037-85",
+    "Innovative Health Bundle",
+    "Health",
+    "$522.53",
+    "7.56",
+    "32×33×32 cm",
+    "A premium, innovative health product. The Innovative Health Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "86",
+    "HEA-5911-86",
+    "Compact Health Pro",
+    "Health",
+    "$210.20",
+    "9.9",
+    "8×7×10 cm",
+    "A eco-friendly, versatile health product. The Compact Health Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "87",
+    "HEA-1211-87",
+    "Budget Health Pro",
+    "Health",
+    "$914.50",
+    "15.72",
+    "18×20×13 cm",
+    "A affordable, innovative health product. The Budget Health Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "88",
+    "HOM-1003-88",
+    "Ultimate Home & Kitchen Tool",
+    "Home & Kitchen",
+    "$547.57",
+    "2.72",
+    "35×32×30 cm",
+    "A durable, stylish home & kitchen product. The Ultimate Home & Kitchen Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "89",
+    "SPO-8489-89",
+    "Smart Sports Ultra",
+    "Sports",
+    "$267.52",
+    "19.37",
+    "22×51×8 cm",
+    "A affordable, versatile sports product. The Smart Sports Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "90",
+    "BOO-2781-90",
+    "Budget Books Kit",
+    "Books",
+    "$218.00",
+    "2.74",
+    "51×47×25 cm",
+    "A durable, portable books product. The Budget Books Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "91",
+    "ELE-8370-91",
+    "Classic Electronics Plus",
+    "Electronics",
+    "$628.52",
+    "15.88",
+    "47×34×24 cm",
+    "A eco-friendly, compact electronics product. The Classic Electronics Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "92",
+    "HOM-1610-92",
+    "Deluxe Home & Kitchen Plus",
+    "Home & Kitchen",
+    "$787.05",
+    "17.48",
+    "26×43×6 cm",
+    "A versatile, versatile home & kitchen product. The Deluxe Home & Kitchen Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "93",
+    "TOY-8787-93",
+    "Modern Toys Package",
+    "Toys",
+    "$410.35",
+    "12.11",
+    "36×9×6 cm",
+    "A compact, ergonomic toys product. The Modern Toys Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "94",
+    "SPO-5594-94",
+    "Eco-friendly Sports Pro",
+    "Sports",
+    "$446.20",
+    "17.26",
+    "30×31×8 cm",
+    "A compact, affordable sports product. The Eco-friendly Sports Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "95",
+    "OFF-5804-95",
+    "Eco-friendly Office Lite",
+    "Office",
+    "$408.24",
+    "10.63",
+    "6×13×30 cm",
+    "A lightweight, compact office product. The Eco-friendly Office Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "96",
+    "HEA-0002-96",
+    "Professional Health Package",
+    "Health",
+    "$792.51",
+    "4.22",
+    "28×51×31 cm",
+    "A eco-friendly, portable health product. The Professional Health Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "97",
+    "HOM-7557-97",
+    "Modern Home & Kitchen Lite",
+    "Home & Kitchen",
+    "$731.85",
+    "13.63",
+    "48×35×7 cm",
+    "A efficient, compact home & kitchen product. The Modern Home & Kitchen Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "98",
+    "HEA-3530-98",
+    "Innovative Health Lite",
+    "Health",
+    "$851.57",
+    "12.36",
+    "27×54×22 cm",
+    "A ergonomic, efficient health product. The Innovative Health Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "99",
+    "ELE-4517-99",
+    "Innovative Electronics Series",
+    "Electronics",
+    "$464.21",
+    "2.1",
+    "18×39×14 cm",
+    "A lightweight, high-quality electronics product. The Innovative Electronics Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "TOY-3616-0",
+    "Deluxe Toys Tool",
+    "Toys",
+    "$515.32",
+    "14.35",
+    "32×26×19 cm",
+    "A eco-friendly, professional toys product. The Deluxe Toys Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "BOO-8489-1",
+    "Classic Books Bundle",
+    "Books",
+    "$712.73",
+    "17.54",
+    "25×20×6 cm",
+    "A stylish, high-quality books product. The Classic Books Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "GAR-5023-2",
+    "Luxury Garden Bundle",
+    "Garden",
+    "$636.37",
+    "16.53",
+    "16×53×25 cm",
+    "A high-quality, professional garden product. The Luxury Garden Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "BEA-4371-3",
+    "Luxury Beauty Ultra",
+    "Beauty",
+    "$529.56",
+    "2.47",
+    "41×48×26 cm",
+    "A professional, powerful beauty product. The Luxury Beauty Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "HEA-3003-4",
+    "Budget Health Max",
+    "Health",
+    "$873.13",
+    "4.87",
+    "8×38×13 cm",
+    "A lightweight, powerful health product. The Budget Health Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "GAR-4956-5",
+    "Innovative Garden Max",
+    "Garden",
+    "$180.09",
+    "7.26",
+    "47×28×16 cm",
+    "A professional, premium garden product. The Innovative Garden Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "ELE-5298-6",
+    "Premium Electronics System",
+    "Electronics",
+    "$874.32",
+    "10.79",
+    "21×43×14 cm",
+    "A portable, compact electronics product. The Premium Electronics System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "SPO-5002-7",
+    "Compact Sports Package",
+    "Sports",
+    "$804.06",
+    "15.37",
+    "8×14×30 cm",
+    "A affordable, lightweight sports product. The Compact Sports Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "CLO-4037-8",
+    "Smart Clothing Tool",
+    "Clothing",
+    "$456.03",
+    "12.88",
+    "46×47×30 cm",
+    "A eco-friendly, ergonomic clothing product. The Smart Clothing Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "BOO-1086-9",
+    "Premium Books Bundle",
+    "Books",
+    "$421.01",
+    "15.11",
+    "37×34×29 cm",
+    "A portable, eco-friendly books product. The Premium Books Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "BOO-5545-10",
+    "Classic Books System",
+    "Books",
+    "$809.82",
+    "7.04",
+    "32×29×28 cm",
+    "A efficient, premium books product. The Classic Books System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "AUT-8597-11",
+    "Budget Automotive Collection",
+    "Automotive",
+    "$600.97",
+    "2.8",
+    "54×5×21 cm",
+    "A versatile, ergonomic automotive product. The Budget Automotive Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "HOM-4161-12",
+    "Portable Home & Kitchen Pro",
+    "Home & Kitchen",
+    "$670.18",
+    "10.7",
+    "5×11×7 cm",
+    "A affordable, compact home & kitchen product. The Portable Home & Kitchen Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "HEA-9517-13",
+    "Portable Health Ultra",
+    "Health",
+    "$194.67",
+    "4.56",
+    "49×51×17 cm",
+    "A stylish, compact health product. The Portable Health Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "HEA-7296-14",
+    "Portable Health Tool",
+    "Health",
+    "$894.46",
+    "11.93",
+    "27×35×20 cm",
+    "A efficient, compact health product. The Portable Health Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "GAR-3313-15",
+    "Classic Garden Plus",
+    "Garden",
+    "$655.67",
+    "1.79",
+    "11×46×34 cm",
+    "A high-quality, high-quality garden product. The Classic Garden Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "SPO-3459-16",
+    "Modern Sports Device",
+    "Sports",
+    "$820.45",
+    "11.04",
+    "45×48×7 cm",
+    "A durable, efficient sports product. The Modern Sports Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "OFF-8521-17",
+    "Professional Office Pro",
+    "Office",
+    "$297.13",
+    "13.21",
+    "54×20×9 cm",
+    "A efficient, durable office product. The Professional Office Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "TOY-6060-18",
+    "Modern Toys Series",
+    "Toys",
+    "$820.49",
+    "6.88",
+    "24×53×21 cm",
+    "A ergonomic, ergonomic toys product. The Modern Toys Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "OFF-2291-19",
+    "Smart Office Ultra",
+    "Office",
+    "$149.29",
+    "10.3",
+    "50×38×14 cm",
+    "A eco-friendly, portable office product. The Smart Office Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "SPO-3479-0",
+    "Portable Sports Lite",
+    "Sports",
+    "$42.28",
+    "6.09",
+    "7×44×6 cm",
+    "A stylish, eco-friendly sports product. The Portable Sports Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "ELE-7676-1",
+    "Eco-friendly Electronics System",
+    "Electronics",
+    "$622.24",
+    "4.48",
+    "51×9×15 cm",
+    "A compact, stylish electronics product. The Eco-friendly Electronics System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "AUT-8266-2",
+    "Modern Automotive Solution",
+    "Automotive",
+    "$509.12",
+    "15.19",
+    "39×18×17 cm",
+    "A stylish, affordable automotive product. The Modern Automotive Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "BOO-2029-3",
+    "Professional Books Set",
+    "Books",
+    "$589.43",
+    "6.39",
+    "12×23×29 cm",
+    "A innovative, high-quality books product. The Professional Books Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "TOY-4660-4",
+    "Compact Toys Max",
+    "Toys",
+    "$370.45",
+    "15.4",
+    "21×45×10 cm",
+    "A stylish, high-quality toys product. The Compact Toys Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "CLO-6247-5",
+    "Luxury Clothing Device",
+    "Clothing",
+    "$560.15",
+    "14.48",
+    "31×54×10 cm",
+    "A professional, stylish clothing product. The Luxury Clothing Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "TOY-7729-6",
+    "Budget Toys Tool",
+    "Toys",
+    "$234.26",
+    "2.57",
+    "15×49×21 cm",
+    "A powerful, compact toys product. The Budget Toys Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "HEA-8199-7",
+    "Innovative Health Package",
+    "Health",
+    "$284.75",
+    "12.33",
+    "20×39×26 cm",
+    "A compact, high-quality health product. The Innovative Health Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "BEA-1542-8",
+    "Premium Beauty Tool",
+    "Beauty",
+    "$21.25",
+    "12.37",
+    "11×37×30 cm",
+    "A efficient, versatile beauty product. The Premium Beauty Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "BOO-8409-9",
+    "Compact Books Solution",
+    "Books",
+    "$628.07",
+    "12.84",
+    "31×49×21 cm",
+    "A eco-friendly, durable books product. The Compact Books Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "CLO-9381-10",
+    "Ultimate Clothing Tool",
+    "Clothing",
+    "$231.49",
+    "6.33",
+    "27×10×15 cm",
+    "A durable, lightweight clothing product. The Ultimate Clothing Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "SPO-6708-11",
+    "Professional Sports Max",
+    "Sports",
+    "$673.97",
+    "16.25",
+    "26×13×10 cm",
+    "A innovative, powerful sports product. The Professional Sports Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "TOY-9150-12",
+    "Smart Toys Solution",
+    "Toys",
+    "$434.62",
+    "13.9",
+    "6×43×31 cm",
+    "A efficient, professional toys product. The Smart Toys Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "SPO-1273-13",
+    "Modern Sports Solution",
+    "Sports",
+    "$810.90",
+    "17.13",
+    "30×26×22 cm",
+    "A high-quality, lightweight sports product. The Modern Sports Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "SPO-9846-14",
+    "Essential Sports Collection",
+    "Sports",
+    "$910.96",
+    "11.54",
+    "52×10×34 cm",
+    "A high-quality, portable sports product. The Essential Sports Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "OFF-4001-15",
+    "Ultimate Office Solution",
+    "Office",
+    "$778.00",
+    "9.63",
+    "49×5×8 cm",
+    "A versatile, powerful office product. The Ultimate Office Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "CLO-9427-16",
+    "Professional Clothing Collection",
+    "Clothing",
+    "$317.18",
+    "5.81",
+    "39×28×18 cm",
+    "A eco-friendly, eco-friendly clothing product. The Professional Clothing Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "OFF-3073-17",
+    "Advanced Office Series",
+    "Office",
+    "$924.10",
+    "11.93",
+    "33×8×22 cm",
+    "A professional, eco-friendly office product. The Advanced Office Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "OFF-9705-18",
+    "Luxury Office Ultra",
+    "Office",
+    "$616.42",
+    "10.13",
+    "51×40×24 cm",
+    "A portable, efficient office product. The Luxury Office Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "SPO-0499-19",
+    "Smart Sports Max",
+    "Sports",
+    "$499.50",
+    "11.78",
+    "21×9×13 cm",
+    "A innovative, premium sports product. The Smart Sports Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "HEA-0425-0",
+    "Portable Health Collection",
+    "Health",
+    "$502.26",
+    "15.95",
+    "17×17×19 cm",
+    "A premium, innovative health product. The Portable Health Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "CLO-9828-1",
+    "Innovative Clothing Solution",
+    "Clothing",
+    "$621.00",
+    "17.72",
+    "22×20×12 cm",
+    "A efficient, affordable clothing product. The Innovative Clothing Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "BOO-5971-2",
+    "Budget Books Max",
+    "Books",
+    "$18.53",
+    "17.04",
+    "17×13×17 cm",
+    "A high-quality, innovative books product. The Budget Books Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "ELE-1883-3",
+    "Eco-friendly Electronics Max",
+    "Electronics",
+    "$85.71",
+    "3.55",
+    "46×48×33 cm",
+    "A powerful, innovative electronics product. The Eco-friendly Electronics Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "CLO-1164-4",
+    "Ultimate Clothing Package",
+    "Clothing",
+    "$201.32",
+    "10.89",
+    "9×49×5 cm",
+    "A professional, compact clothing product. The Ultimate Clothing Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "CLO-1250-5",
+    "Essential Clothing Set",
+    "Clothing",
+    "$429.62",
+    "10.54",
+    "35×48×20 cm",
+    "A eco-friendly, efficient clothing product. The Essential Clothing Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "AUT-5379-6",
+    "Budget Automotive System",
+    "Automotive",
+    "$481.01",
+    "12.07",
+    "16×20×10 cm",
+    "A durable, ergonomic automotive product. The Budget Automotive System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "BEA-4869-7",
+    "Modern Beauty Plus",
+    "Beauty",
+    "$753.35",
+    "6.63",
+    "51×15×24 cm",
+    "A high-quality, affordable beauty product. The Modern Beauty Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "OFF-4258-8",
+    "Classic Office Plus",
+    "Office",
+    "$710.74",
+    "0.47",
+    "21×34×25 cm",
+    "A eco-friendly, stylish office product. The Classic Office Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "GAR-5964-9",
+    "Professional Garden Kit",
+    "Garden",
+    "$586.48",
+    "7.44",
+    "35×42×8 cm",
+    "A portable, durable garden product. The Professional Garden Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "GAR-1764-10",
+    "Professional Garden Pro",
+    "Garden",
+    "$384.51",
+    "16.28",
+    "19×21×33 cm",
+    "A efficient, affordable garden product. The Professional Garden Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "CLO-0559-11",
+    "Premium Clothing Pro",
+    "Clothing",
+    "$490.91",
+    "11.42",
+    "29×26×34 cm",
+    "A stylish, stylish clothing product. The Premium Clothing Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "TOY-4661-12",
+    "Premium Toys Kit",
+    "Toys",
+    "$93.18",
+    "10.86",
+    "31×26×34 cm",
+    "A affordable, eco-friendly toys product. The Premium Toys Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "TOY-0240-13",
+    "Classic Toys Max",
+    "Toys",
+    "$189.31",
+    "9.15",
+    "5×19×21 cm",
+    "A innovative, compact toys product. The Classic Toys Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "HOM-8771-14",
+    "Professional Home & Kitchen Pro",
+    "Home & Kitchen",
+    "$346.03",
+    "11.44",
+    "48×33×32 cm",
+    "A ergonomic, portable home & kitchen product. The Professional Home & Kitchen Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "HEA-4722-15",
+    "Eco-friendly Health Max",
+    "Health",
+    "$642.82",
+    "5.35",
+    "45×27×5 cm",
+    "A powerful, innovative health product. The Eco-friendly Health Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "SPO-6815-16",
+    "Advanced Sports Set",
+    "Sports",
+    "$841.77",
+    "3.63",
+    "24×41×31 cm",
+    "A affordable, durable sports product. The Advanced Sports Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "GAR-8229-17",
+    "Luxury Garden Ultra",
+    "Garden",
+    "$956.31",
+    "0.35",
+    "28×14×23 cm",
+    "A ergonomic, premium garden product. The Luxury Garden Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "AUT-6281-18",
+    "Portable Automotive Set",
+    "Automotive",
+    "$571.25",
+    "15.93",
+    "30×18×29 cm",
+    "A professional, innovative automotive product. The Portable Automotive Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "CLO-1904-19",
+    "Eco-friendly Clothing Max",
+    "Clothing",
+    "$424.35",
+    "4.11",
+    "11×5×20 cm",
+    "A affordable, compact clothing product. The Eco-friendly Clothing Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "HOM-5964-0",
+    "Eco-friendly Home & Kitchen Package",
+    "Home & Kitchen",
+    "$601.44",
+    "6.77",
+    "18×38×22 cm",
+    "A efficient, durable home & kitchen product. The Eco-friendly Home & Kitchen Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "HOM-1427-1",
+    "Smart Home & Kitchen Plus",
+    "Home & Kitchen",
+    "$171.54",
+    "19.68",
+    "36×39×15 cm",
+    "A affordable, innovative home & kitchen product. The Smart Home & Kitchen Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "AUT-9645-2",
+    "Modern Automotive Device",
+    "Automotive",
+    "$864.24",
+    "10.61",
+    "34×5×23 cm",
+    "A innovative, compact automotive product. The Modern Automotive Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "OFF-8520-3",
+    "Premium Office Set",
+    "Office",
+    "$932.10",
+    "4.85",
+    "9×15×21 cm",
+    "A high-quality, premium office product. The Premium Office Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "CLO-7675-4",
+    "Budget Clothing Package",
+    "Clothing",
+    "$774.81",
+    "9.07",
+    "12×27×6 cm",
+    "A powerful, premium clothing product. The Budget Clothing Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "GAR-8953-5",
+    "Eco-friendly Garden Solution",
+    "Garden",
+    "$852.42",
+    "1.21",
+    "52×6×17 cm",
+    "A efficient, portable garden product. The Eco-friendly Garden Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "AUT-8291-6",
+    "Advanced Automotive Device",
+    "Automotive",
+    "$762.53",
+    "9.98",
+    "20×26×27 cm",
+    "A efficient, efficient automotive product. The Advanced Automotive Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "ELE-5676-7",
+    "Professional Electronics System",
+    "Electronics",
+    "$974.94",
+    "12.02",
+    "30×30×12 cm",
+    "A efficient, compact electronics product. The Professional Electronics System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "SPO-9063-8",
+    "Premium Sports Tool",
+    "Sports",
+    "$832.18",
+    "2.72",
+    "35×32×11 cm",
+    "A eco-friendly, innovative sports product. The Premium Sports Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "GAR-6403-9",
+    "Luxury Garden Bundle",
+    "Garden",
+    "$708.95",
+    "14.27",
+    "17×39×15 cm",
+    "A powerful, compact garden product. The Luxury Garden Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "OFF-6814-10",
+    "Essential Office Pro",
+    "Office",
+    "$473.87",
+    "16.07",
+    "37×6×5 cm",
+    "A high-quality, innovative office product. The Essential Office Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "TOY-7276-11",
+    "Luxury Toys Plus",
+    "Toys",
+    "$218.46",
+    "1.08",
+    "20×28×28 cm",
+    "A durable, efficient toys product. The Luxury Toys Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "HOM-4976-12",
+    "Deluxe Home & Kitchen Bundle",
+    "Home & Kitchen",
+    "$629.33",
+    "11.84",
+    "48×46×25 cm",
+    "A high-quality, affordable home & kitchen product. The Deluxe Home & Kitchen Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "SPO-1096-13",
+    "Modern Sports Tool",
+    "Sports",
+    "$796.25",
+    "8.02",
+    "46×44×8 cm",
+    "A innovative, lightweight sports product. The Modern Sports Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "HOM-5989-14",
+    "Budget Home & Kitchen Series",
+    "Home & Kitchen",
+    "$784.97",
+    "13.26",
+    "25×53×5 cm",
+    "A ergonomic, professional home & kitchen product. The Budget Home & Kitchen Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "CLO-3785-15",
+    "Premium Clothing Tool",
+    "Clothing",
+    "$823.42",
+    "1.62",
+    "39×10×18 cm",
+    "A stylish, eco-friendly clothing product. The Premium Clothing Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "TOY-1362-16",
+    "Ultimate Toys Max",
+    "Toys",
+    "$338.52",
+    "8.41",
+    "26×28×5 cm",
+    "A lightweight, professional toys product. The Ultimate Toys Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "CLO-7451-17",
+    "Innovative Clothing Collection",
+    "Clothing",
+    "$178.74",
+    "19.49",
+    "46×32×23 cm",
+    "A stylish, ergonomic clothing product. The Innovative Clothing Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "SPO-4888-18",
+    "Modern Sports Package",
+    "Sports",
+    "$24.51",
+    "12.3",
+    "9×51×6 cm",
+    "A compact, affordable sports product. The Modern Sports Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "GAR-4187-19",
+    "Luxury Garden Set",
+    "Garden",
+    "$595.41",
+    "3.61",
+    "10×24×5 cm",
+    "A ergonomic, high-quality garden product. The Luxury Garden Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "SPO-1085-0",
+    "Innovative Sports Device",
+    "Sports",
+    "$858.70",
+    "13.16",
+    "49×26×5 cm",
+    "A versatile, eco-friendly sports product. The Innovative Sports Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "BEA-7249-1",
+    "Essential Beauty Package",
+    "Beauty",
+    "$862.16",
+    "4.28",
+    "42×36×28 cm",
+    "A eco-friendly, portable beauty product. The Essential Beauty Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "ELE-5929-2",
+    "Classic Electronics Device",
+    "Electronics",
+    "$299.90",
+    "2.02",
+    "53×38×6 cm",
+    "A portable, efficient electronics product. The Classic Electronics Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "AUT-2369-3",
+    "Deluxe Automotive Solution",
+    "Automotive",
+    "$921.47",
+    "4.3",
+    "17×17×21 cm",
+    "A versatile, versatile automotive product. The Deluxe Automotive Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "TOY-6093-4",
+    "Advanced Toys Kit",
+    "Toys",
+    "$593.52",
+    "18.25",
+    "45×41×5 cm",
+    "A lightweight, professional toys product. The Advanced Toys Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "AUT-5907-5",
+    "Portable Automotive Kit",
+    "Automotive",
+    "$112.77",
+    "9.51",
+    "40×32×27 cm",
+    "A innovative, powerful automotive product. The Portable Automotive Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "CLO-2116-6",
+    "Portable Clothing Set",
+    "Clothing",
+    "$951.42",
+    "19.24",
+    "54×54×11 cm",
+    "A stylish, stylish clothing product. The Portable Clothing Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "GAR-2163-7",
+    "Smart Garden Package",
+    "Garden",
+    "$552.28",
+    "14.46",
+    "19×21×14 cm",
+    "A durable, high-quality garden product. The Smart Garden Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "HOM-9389-8",
+    "Portable Home & Kitchen Kit",
+    "Home & Kitchen",
+    "$977.46",
+    "4.1",
+    "44×28×23 cm",
+    "A eco-friendly, versatile home & kitchen product. The Portable Home & Kitchen Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "HEA-8319-9",
+    "Compact Health Solution",
+    "Health",
+    "$967.86",
+    "19.32",
+    "17×46×5 cm",
+    "A ergonomic, high-quality health product. The Compact Health Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "AUT-6200-10",
+    "Luxury Automotive Collection",
+    "Automotive",
+    "$960.24",
+    "17.62",
+    "42×54×24 cm",
+    "A professional, innovative automotive product. The Luxury Automotive Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "HEA-0575-11",
+    "Professional Health Tool",
+    "Health",
+    "$759.25",
+    "7.55",
+    "14×15×28 cm",
+    "A innovative, powerful health product. The Professional Health Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "OFF-7528-12",
+    "Innovative Office Max",
+    "Office",
+    "$726.42",
+    "4.27",
+    "30×39×34 cm",
+    "A innovative, high-quality office product. The Innovative Office Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "AUT-8605-13",
+    "Luxury Automotive Tool",
+    "Automotive",
+    "$270.54",
+    "17.51",
+    "23×9×10 cm",
+    "A lightweight, versatile automotive product. The Luxury Automotive Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "BOO-7381-14",
+    "Advanced Books Solution",
+    "Books",
+    "$523.97",
+    "1.96",
+    "53×21×5 cm",
+    "A affordable, eco-friendly books product. The Advanced Books Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "BEA-9848-15",
+    "Innovative Beauty Series",
+    "Beauty",
+    "$669.10",
+    "10.15",
+    "51×19×15 cm",
+    "A innovative, compact beauty product. The Innovative Beauty Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "SPO-1590-16",
+    "Luxury Sports Tool",
+    "Sports",
+    "$938.71",
+    "2.59",
+    "36×30×21 cm",
+    "A lightweight, high-quality sports product. The Luxury Sports Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "HEA-5302-17",
+    "Essential Health Solution",
+    "Health",
+    "$16.08",
+    "15.16",
+    "32×5×30 cm",
+    "A portable, portable health product. The Essential Health Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "HOM-3628-18",
+    "Budget Home & Kitchen System",
+    "Home & Kitchen",
+    "$758.97",
+    "9.61",
+    "13×37×20 cm",
+    "A compact, compact home & kitchen product. The Budget Home & Kitchen System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "HEA-1045-19",
+    "Premium Health Solution",
+    "Health",
+    "$840.35",
+    "7.22",
+    "40×40×10 cm",
+    "A eco-friendly, affordable health product. The Premium Health Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "20",
+    "ELE-4005-20",
+    "Essential Electronics Collection",
+    "Electronics",
+    "$24.77",
+    "3.03",
+    "32×49×24 cm",
+    "A high-quality, eco-friendly electronics product. The Essential Electronics Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "21",
+    "SPO-7613-21",
+    "Premium Sports System",
+    "Sports",
+    "$894.58",
+    "12.79",
+    "40×50×24 cm",
+    "A portable, premium sports product. The Premium Sports System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "22",
+    "TOY-8664-22",
+    "Deluxe Toys Tool",
+    "Toys",
+    "$312.34",
+    "0.82",
+    "13×32×12 cm",
+    "A lightweight, versatile toys product. The Deluxe Toys Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "23",
+    "HEA-2318-23",
+    "Smart Health Kit",
+    "Health",
+    "$934.06",
+    "8.8",
+    "33×18×14 cm",
+    "A stylish, high-quality health product. The Smart Health Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "24",
+    "OFF-6366-24",
+    "Smart Office Set",
+    "Office",
+    "$590.93",
+    "12.36",
+    "24×35×27 cm",
+    "A stylish, efficient office product. The Smart Office Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "25",
+    "GAR-6622-25",
+    "Luxury Garden Series",
+    "Garden",
+    "$959.01",
+    "3.31",
+    "15×16×32 cm",
+    "A innovative, professional garden product. The Luxury Garden Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "26",
+    "HOM-1196-26",
+    "Deluxe Home & Kitchen Series",
+    "Home & Kitchen",
+    "$383.96",
+    "6.38",
+    "21×12×6 cm",
+    "A compact, eco-friendly home & kitchen product. The Deluxe Home & Kitchen Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "27",
+    "GAR-3868-27",
+    "Smart Garden System",
+    "Garden",
+    "$330.71",
+    "14.65",
+    "5×22×34 cm",
+    "A premium, compact garden product. The Smart Garden System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "28",
+    "CLO-8398-28",
+    "Advanced Clothing System",
+    "Clothing",
+    "$112.35",
+    "15.62",
+    "42×45×17 cm",
+    "A eco-friendly, eco-friendly clothing product. The Advanced Clothing System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "29",
+    "GAR-5536-29",
+    "Advanced Garden Plus",
+    "Garden",
+    "$537.30",
+    "14.87",
+    "11×37×25 cm",
+    "A stylish, eco-friendly garden product. The Advanced Garden Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "30",
+    "CLO-5034-30",
+    "Premium Clothing Ultra",
+    "Clothing",
+    "$445.44",
+    "15.87",
+    "25×22×16 cm",
+    "A efficient, stylish clothing product. The Premium Clothing Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "31",
+    "CLO-9599-31",
+    "Classic Clothing Lite",
+    "Clothing",
+    "$478.56",
+    "5.42",
+    "49×12×24 cm",
+    "A premium, premium clothing product. The Classic Clothing Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "32",
+    "TOY-7702-32",
+    "Essential Toys Max",
+    "Toys",
+    "$707.14",
+    "10.74",
+    "20×6×22 cm",
+    "A eco-friendly, professional toys product. The Essential Toys Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "33",
+    "BEA-2163-33",
+    "Budget Beauty Set",
+    "Beauty",
+    "$210.37",
+    "15.77",
+    "17×23×23 cm",
+    "A lightweight, premium beauty product. The Budget Beauty Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "34",
+    "BOO-3542-34",
+    "Smart Books Series",
+    "Books",
+    "$743.09",
+    "7.97",
+    "18×45×25 cm",
+    "A premium, ergonomic books product. The Smart Books Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "35",
+    "AUT-6282-35",
+    "Luxury Automotive Solution",
+    "Automotive",
+    "$325.14",
+    "18.28",
+    "16×35×8 cm",
+    "A compact, lightweight automotive product. The Luxury Automotive Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "36",
+    "BOO-1325-36",
+    "Modern Books Solution",
+    "Books",
+    "$601.46",
+    "17.19",
+    "16×7×8 cm",
+    "A professional, premium books product. The Modern Books Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "37",
+    "BOO-5198-37",
+    "Smart Books Solution",
+    "Books",
+    "$755.72",
+    "4.79",
+    "7×47×16 cm",
+    "A powerful, lightweight books product. The Smart Books Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "38",
+    "BEA-5169-38",
+    "Innovative Beauty Collection",
+    "Beauty",
+    "$458.21",
+    "18.34",
+    "26×38×25 cm",
+    "A innovative, eco-friendly beauty product. The Innovative Beauty Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "39",
+    "BOO-8606-39",
+    "Budget Books Kit",
+    "Books",
+    "$910.62",
+    "1.27",
+    "51×15×27 cm",
+    "A powerful, lightweight books product. The Budget Books Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "40",
+    "GAR-8163-40",
+    "Premium Garden Collection",
+    "Garden",
+    "$304.89",
+    "7.01",
+    "24×10×8 cm",
+    "A compact, eco-friendly garden product. The Premium Garden Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "41",
+    "HOM-9571-41",
+    "Essential Home & Kitchen Bundle",
+    "Home & Kitchen",
+    "$87.13",
+    "9.95",
+    "52×46×16 cm",
+    "A compact, lightweight home & kitchen product. The Essential Home & Kitchen Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "42",
+    "HEA-9856-42",
+    "Deluxe Health Ultra",
+    "Health",
+    "$962.29",
+    "4.55",
+    "22×9×16 cm",
+    "A stylish, professional health product. The Deluxe Health Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "43",
+    "HOM-7713-43",
+    "Smart Home & Kitchen Max",
+    "Home & Kitchen",
+    "$905.14",
+    "5.82",
+    "23×42×6 cm",
+    "A versatile, lightweight home & kitchen product. The Smart Home & Kitchen Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "44",
+    "BEA-0863-44",
+    "Portable Beauty Plus",
+    "Beauty",
+    "$258.38",
+    "16.25",
+    "33×9×20 cm",
+    "A efficient, affordable beauty product. The Portable Beauty Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "45",
+    "HEA-8777-45",
+    "Budget Health Tool",
+    "Health",
+    "$862.01",
+    "16.81",
+    "23×30×10 cm",
+    "A ergonomic, affordable health product. The Budget Health Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "46",
+    "HEA-2230-46",
+    "Smart Health Pro",
+    "Health",
+    "$410.60",
+    "8.54",
+    "51×25×11 cm",
+    "A stylish, premium health product. The Smart Health Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "47",
+    "AUT-7963-47",
+    "Compact Automotive Bundle",
+    "Automotive",
+    "$705.62",
+    "7.73",
+    "10×49×21 cm",
+    "A professional, affordable automotive product. The Compact Automotive Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "48",
+    "OFF-2322-48",
+    "Smart Office Tool",
+    "Office",
+    "$543.96",
+    "4.64",
+    "41×43×31 cm",
+    "A lightweight, stylish office product. The Smart Office Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "49",
+    "BEA-4864-49",
+    "Advanced Beauty Ultra",
+    "Beauty",
+    "$480.11",
+    "13.88",
+    "7×11×28 cm",
+    "A ergonomic, eco-friendly beauty product. The Advanced Beauty Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "50",
+    "OFF-2533-50",
+    "Eco-friendly Office Plus",
+    "Office",
+    "$670.86",
+    "1.24",
+    "31×38×5 cm",
+    "A efficient, eco-friendly office product. The Eco-friendly Office Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "51",
+    "SPO-5599-51",
+    "Essential Sports Kit",
+    "Sports",
+    "$685.18",
+    "9.32",
+    "32×6×12 cm",
+    "A stylish, eco-friendly sports product. The Essential Sports Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "52",
+    "OFF-9924-52",
+    "Smart Office Ultra",
+    "Office",
+    "$268.44",
+    "6.42",
+    "49×26×5 cm",
+    "A innovative, efficient office product. The Smart Office Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "53",
+    "HEA-6866-53",
+    "Modern Health Device",
+    "Health",
+    "$779.44",
+    "9.02",
+    "46×42×13 cm",
+    "A portable, powerful health product. The Modern Health Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "54",
+    "SPO-8836-54",
+    "Compact Sports Max",
+    "Sports",
+    "$170.05",
+    "18.14",
+    "32×30×30 cm",
+    "A stylish, ergonomic sports product. The Compact Sports Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "55",
+    "SPO-2419-55",
+    "Budget Sports Solution",
+    "Sports",
+    "$635.23",
+    "15.48",
+    "42×20×20 cm",
+    "A stylish, affordable sports product. The Budget Sports Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "56",
+    "BEA-9284-56",
+    "Classic Beauty System",
+    "Beauty",
+    "$500.43",
+    "14.02",
+    "21×38×27 cm",
+    "A versatile, efficient beauty product. The Classic Beauty System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "57",
+    "TOY-3042-57",
+    "Essential Toys Plus",
+    "Toys",
+    "$569.97",
+    "17.67",
+    "43×47×8 cm",
+    "A ergonomic, professional toys product. The Essential Toys Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "58",
+    "CLO-9852-58",
+    "Premium Clothing Collection",
+    "Clothing",
+    "$93.84",
+    "6.86",
+    "16×36×21 cm",
+    "A premium, durable clothing product. The Premium Clothing Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "59",
+    "BEA-3055-59",
+    "Luxury Beauty Set",
+    "Beauty",
+    "$744.25",
+    "18.29",
+    "26×9×13 cm",
+    "A ergonomic, powerful beauty product. The Luxury Beauty Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "60",
+    "CLO-4978-60",
+    "Modern Clothing Bundle",
+    "Clothing",
+    "$779.51",
+    "9.94",
+    "45×33×25 cm",
+    "A stylish, professional clothing product. The Modern Clothing Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "61",
+    "TOY-0360-61",
+    "Essential Toys Solution",
+    "Toys",
+    "$271.41",
+    "15.4",
+    "29×15×25 cm",
+    "A lightweight, efficient toys product. The Essential Toys Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "62",
+    "CLO-0885-62",
+    "Premium Clothing Lite",
+    "Clothing",
+    "$765.24",
+    "12.1",
+    "18×19×28 cm",
+    "A ergonomic, versatile clothing product. The Premium Clothing Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "63",
+    "GAR-6374-63",
+    "Budget Garden System",
+    "Garden",
+    "$111.61",
+    "3.9",
+    "18×7×30 cm",
+    "A innovative, lightweight garden product. The Budget Garden System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "64",
+    "GAR-0228-64",
+    "Luxury Garden Plus",
+    "Garden",
+    "$846.71",
+    "20.04",
+    "31×43×6 cm",
+    "A professional, portable garden product. The Luxury Garden Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "65",
+    "CLO-5046-65",
+    "Essential Clothing Bundle",
+    "Clothing",
+    "$550.73",
+    "18.65",
+    "34×6×5 cm",
+    "A lightweight, powerful clothing product. The Essential Clothing Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "66",
+    "HEA-9304-66",
+    "Ultimate Health Collection",
+    "Health",
+    "$918.12",
+    "11.97",
+    "15×28×28 cm",
+    "A compact, eco-friendly health product. The Ultimate Health Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "67",
+    "TOY-1738-67",
+    "Innovative Toys Kit",
+    "Toys",
+    "$12.21",
+    "16.91",
+    "29×46×20 cm",
+    "A versatile, premium toys product. The Innovative Toys Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "68",
+    "OFF-5192-68",
+    "Compact Office Tool",
+    "Office",
+    "$757.57",
+    "18.76",
+    "26×23×9 cm",
+    "A ergonomic, ergonomic office product. The Compact Office Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "69",
+    "HOM-1536-69",
+    "Innovative Home & Kitchen Solution",
+    "Home & Kitchen",
+    "$206.57",
+    "17.8",
+    "8×25×6 cm",
+    "A high-quality, lightweight home & kitchen product. The Innovative Home & Kitchen Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "70",
+    "HOM-5825-70",
+    "Luxury Home & Kitchen Solution",
+    "Home & Kitchen",
+    "$256.55",
+    "15.1",
+    "39×17×13 cm",
+    "A ergonomic, high-quality home & kitchen product. The Luxury Home & Kitchen Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "71",
+    "BOO-3172-71",
+    "Eco-friendly Books Ultra",
+    "Books",
+    "$673.88",
+    "14.82",
+    "45×19×5 cm",
+    "A professional, portable books product. The Eco-friendly Books Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "72",
+    "HEA-8910-72",
+    "Luxury Health Lite",
+    "Health",
+    "$798.53",
+    "14.85",
+    "53×10×20 cm",
+    "A premium, portable health product. The Luxury Health Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "73",
+    "TOY-3047-73",
+    "Eco-friendly Toys Kit",
+    "Toys",
+    "$110.53",
+    "5.4",
+    "23×33×34 cm",
+    "A stylish, portable toys product. The Eco-friendly Toys Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "74",
+    "ELE-8213-74",
+    "Eco-friendly Electronics Pro",
+    "Electronics",
+    "$268.20",
+    "4.13",
+    "25×24×19 cm",
+    "A eco-friendly, affordable electronics product. The Eco-friendly Electronics Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "75",
+    "TOY-0432-75",
+    "Portable Toys Set",
+    "Toys",
+    "$917.25",
+    "1.27",
+    "33×47×28 cm",
+    "A ergonomic, affordable toys product. The Portable Toys Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "76",
+    "OFF-7622-76",
+    "Compact Office Pro",
+    "Office",
+    "$695.16",
+    "19.61",
+    "12×20×34 cm",
+    "A powerful, lightweight office product. The Compact Office Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "77",
+    "TOY-4047-77",
+    "Advanced Toys Tool",
+    "Toys",
+    "$633.28",
+    "16.19",
+    "37×51×29 cm",
+    "A affordable, eco-friendly toys product. The Advanced Toys Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "78",
+    "BOO-5911-78",
+    "Modern Books Plus",
+    "Books",
+    "$89.19",
+    "15.11",
+    "38×12×15 cm",
+    "A affordable, ergonomic books product. The Modern Books Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "79",
+    "BOO-1495-79",
+    "Premium Books Set",
+    "Books",
+    "$520.26",
+    "15.75",
+    "42×33×25 cm",
+    "A ergonomic, powerful books product. The Premium Books Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "80",
+    "HEA-7444-80",
+    "Premium Health Solution",
+    "Health",
+    "$437.38",
+    "8.91",
+    "38×6×8 cm",
+    "A stylish, portable health product. The Premium Health Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "81",
+    "HEA-0226-81",
+    "Compact Health Ultra",
+    "Health",
+    "$223.11",
+    "14.14",
+    "47×49×29 cm",
+    "A eco-friendly, powerful health product. The Compact Health Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "82",
+    "OFF-0175-82",
+    "Budget Office Max",
+    "Office",
+    "$648.97",
+    "16.74",
+    "16×40×33 cm",
+    "A durable, powerful office product. The Budget Office Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "83",
+    "GAR-9472-83",
+    "Premium Garden Series",
+    "Garden",
+    "$587.90",
+    "12.04",
+    "18×24×12 cm",
+    "A versatile, affordable garden product. The Premium Garden Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "84",
+    "OFF-0368-84",
+    "Deluxe Office Series",
+    "Office",
+    "$153.40",
+    "12.91",
+    "34×48×19 cm",
+    "A versatile, innovative office product. The Deluxe Office Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "85",
+    "GAR-2030-85",
+    "Smart Garden Kit",
+    "Garden",
+    "$753.35",
+    "15.43",
+    "13×7×34 cm",
+    "A lightweight, lightweight garden product. The Smart Garden Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "86",
+    "HEA-9789-86",
+    "Advanced Health Collection",
+    "Health",
+    "$372.39",
+    "13.06",
+    "27×26×29 cm",
+    "A ergonomic, versatile health product. The Advanced Health Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "87",
+    "ELE-2797-87",
+    "Modern Electronics Pro",
+    "Electronics",
+    "$243.43",
+    "14.72",
+    "8×36×33 cm",
+    "A portable, eco-friendly electronics product. The Modern Electronics Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "88",
+    "TOY-9775-88",
+    "Smart Toys Package",
+    "Toys",
+    "$326.81",
+    "10.03",
+    "10×35×21 cm",
+    "A eco-friendly, premium toys product. The Smart Toys Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "89",
+    "OFF-5803-89",
+    "Eco-friendly Office Lite",
+    "Office",
+    "$595.11",
+    "2.05",
+    "14×30×6 cm",
+    "A premium, powerful office product. The Eco-friendly Office Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "90",
+    "SPO-4197-90",
+    "Eco-friendly Sports Collection",
+    "Sports",
+    "$756.23",
+    "2.83",
+    "17×46×30 cm",
+    "A compact, affordable sports product. The Eco-friendly Sports Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "91",
+    "AUT-7340-91",
+    "Innovative Automotive Package",
+    "Automotive",
+    "$37.45",
+    "10.98",
+    "10×24×30 cm",
+    "A affordable, professional automotive product. The Innovative Automotive Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "92",
+    "BOO-9599-92",
+    "Smart Books Series",
+    "Books",
+    "$718.71",
+    "4.58",
+    "18×39×12 cm",
+    "A versatile, versatile books product. The Smart Books Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "93",
+    "GAR-0809-93",
+    "Advanced Garden Kit",
+    "Garden",
+    "$258.55",
+    "5.18",
+    "36×18×22 cm",
+    "A eco-friendly, stylish garden product. The Advanced Garden Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "94",
+    "CLO-9086-94",
+    "Essential Clothing Series",
+    "Clothing",
+    "$579.78",
+    "5.99",
+    "35×6×23 cm",
+    "A stylish, high-quality clothing product. The Essential Clothing Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "95",
+    "TOY-2726-95",
+    "Smart Toys Set",
+    "Toys",
+    "$14.39",
+    "18.41",
+    "25×53×22 cm",
+    "A powerful, compact toys product. The Smart Toys Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "96",
+    "BEA-1605-96",
+    "Innovative Beauty System",
+    "Beauty",
+    "$683.25",
+    "19.07",
+    "29×52×18 cm",
+    "A professional, lightweight beauty product. The Innovative Beauty System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "97",
+    "GAR-3209-97",
+    "Deluxe Garden Plus",
+    "Garden",
+    "$978.71",
+    "8.66",
+    "52×27×15 cm",
+    "A versatile, ergonomic garden product. The Deluxe Garden Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "98",
+    "HEA-9969-98",
+    "Smart Health Device",
+    "Health",
+    "$35.19",
+    "5.99",
+    "9×30×10 cm",
+    "A eco-friendly, innovative health product. The Smart Health Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "99",
+    "HOM-1007-99",
+    "Budget Home & Kitchen Series",
+    "Home & Kitchen",
+    "$585.02",
+    "8.7",
+    "13×42×21 cm",
+    "A premium, powerful home & kitchen product. The Budget Home & Kitchen Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "100",
+    "CLO-9130-100",
+    "Premium Clothing Collection",
+    "Clothing",
+    "$415.51",
+    "12.08",
+    "37×12×33 cm",
+    "A portable, lightweight clothing product. The Premium Clothing Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "101",
+    "HEA-1476-101",
+    "Premium Health Plus",
+    "Health",
+    "$57.45",
+    "5.89",
+    "32×14×17 cm",
+    "A stylish, ergonomic health product. The Premium Health Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "102",
+    "ELE-2465-102",
+    "Compact Electronics System",
+    "Electronics",
+    "$895.07",
+    "6.91",
+    "48×36×14 cm",
+    "A high-quality, portable electronics product. The Compact Electronics System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "103",
+    "AUT-6867-103",
+    "Modern Automotive Collection",
+    "Automotive",
+    "$534.29",
+    "8.16",
+    "54×37×21 cm",
+    "A innovative, premium automotive product. The Modern Automotive Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "104",
+    "GAR-5144-104",
+    "Innovative Garden Kit",
+    "Garden",
+    "$126.30",
+    "18.3",
+    "15×21×8 cm",
+    "A lightweight, compact garden product. The Innovative Garden Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "105",
+    "HEA-8208-105",
+    "Compact Health System",
+    "Health",
+    "$923.46",
+    "2.74",
+    "46×49×22 cm",
+    "A efficient, powerful health product. The Compact Health System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "106",
+    "BOO-4719-106",
+    "Ultimate Books Tool",
+    "Books",
+    "$50.20",
+    "17.77",
+    "47×47×29 cm",
+    "A lightweight, ergonomic books product. The Ultimate Books Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "107",
+    "HEA-9135-107",
+    "Luxury Health Solution",
+    "Health",
+    "$729.76",
+    "15.48",
+    "5×40×13 cm",
+    "A ergonomic, eco-friendly health product. The Luxury Health Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "108",
+    "OFF-3377-108",
+    "Innovative Office Device",
+    "Office",
+    "$662.16",
+    "12.99",
+    "17×7×26 cm",
+    "A versatile, efficient office product. The Innovative Office Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "109",
+    "HOM-5741-109",
+    "Luxury Home & Kitchen Max",
+    "Home & Kitchen",
+    "$935.04",
+    "3.13",
+    "29×37×28 cm",
+    "A professional, efficient home & kitchen product. The Luxury Home & Kitchen Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "110",
+    "CLO-6875-110",
+    "Deluxe Clothing Tool",
+    "Clothing",
+    "$502.95",
+    "13.48",
+    "19×32×14 cm",
+    "A premium, powerful clothing product. The Deluxe Clothing Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "111",
+    "HEA-9809-111",
+    "Modern Health Series",
+    "Health",
+    "$64.36",
+    "19.27",
+    "36×11×22 cm",
+    "A portable, compact health product. The Modern Health Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "112",
+    "HEA-1778-112",
+    "Essential Health System",
+    "Health",
+    "$183.98",
+    "6.41",
+    "29×23×9 cm",
+    "A versatile, powerful health product. The Essential Health System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "113",
+    "GAR-9761-113",
+    "Smart Garden Collection",
+    "Garden",
+    "$303.56",
+    "9.94",
+    "41×17×25 cm",
+    "A stylish, premium garden product. The Smart Garden Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "114",
+    "AUT-9753-114",
+    "Professional Automotive Bundle",
+    "Automotive",
+    "$374.43",
+    "14.7",
+    "40×17×26 cm",
+    "A innovative, eco-friendly automotive product. The Professional Automotive Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "115",
+    "SPO-8614-115",
+    "Eco-friendly Sports Plus",
+    "Sports",
+    "$326.44",
+    "19.51",
+    "23×18×18 cm",
+    "A powerful, stylish sports product. The Eco-friendly Sports Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "116",
+    "HEA-4039-116",
+    "Innovative Health Bundle",
+    "Health",
+    "$100.65",
+    "14.14",
+    "51×41×13 cm",
+    "A affordable, professional health product. The Innovative Health Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "117",
+    "AUT-7740-117",
+    "Modern Automotive Set",
+    "Automotive",
+    "$232.39",
+    "1.82",
+    "11×13×13 cm",
+    "A stylish, versatile automotive product. The Modern Automotive Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "118",
+    "BOO-8285-118",
+    "Deluxe Books Plus",
+    "Books",
+    "$372.15",
+    "14.41",
+    "46×54×7 cm",
+    "A eco-friendly, portable books product. The Deluxe Books Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "119",
+    "AUT-5393-119",
+    "Eco-friendly Automotive Lite",
+    "Automotive",
+    "$136.96",
+    "3.55",
+    "19×51×21 cm",
+    "A lightweight, professional automotive product. The Eco-friendly Automotive Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "120",
+    "GAR-2085-120",
+    "Advanced Garden Plus",
+    "Garden",
+    "$285.39",
+    "6.8",
+    "24×49×32 cm",
+    "A versatile, eco-friendly garden product. The Advanced Garden Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "121",
+    "CLO-0726-121",
+    "Compact Clothing Collection",
+    "Clothing",
+    "$212.69",
+    "8.62",
+    "24×6×14 cm",
+    "A portable, efficient clothing product. The Compact Clothing Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "122",
+    "BOO-6667-122",
+    "Deluxe Books Pro",
+    "Books",
+    "$528.44",
+    "19.95",
+    "31×26×9 cm",
+    "A high-quality, versatile books product. The Deluxe Books Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "123",
+    "OFF-6689-123",
+    "Eco-friendly Office Package",
+    "Office",
+    "$227.53",
+    "11.16",
+    "14×5×24 cm",
+    "A versatile, innovative office product. The Eco-friendly Office Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "124",
+    "GAR-7559-124",
+    "Professional Garden System",
+    "Garden",
+    "$269.88",
+    "17.52",
+    "46×19×14 cm",
+    "A portable, stylish garden product. The Professional Garden System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "125",
+    "HEA-1303-125",
+    "Ultimate Health Lite",
+    "Health",
+    "$263.23",
+    "15.62",
+    "14×35×13 cm",
+    "A innovative, innovative health product. The Ultimate Health Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "126",
+    "TOY-3480-126",
+    "Smart Toys Series",
+    "Toys",
+    "$653.17",
+    "10.15",
+    "11×11×20 cm",
+    "A ergonomic, eco-friendly toys product. The Smart Toys Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "127",
+    "AUT-0448-127",
+    "Modern Automotive Ultra",
+    "Automotive",
+    "$163.88",
+    "1.96",
+    "42×40×26 cm",
+    "A high-quality, efficient automotive product. The Modern Automotive Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "128",
+    "BEA-9163-128",
+    "Advanced Beauty Plus",
+    "Beauty",
+    "$368.58",
+    "5.76",
+    "33×16×24 cm",
+    "A high-quality, ergonomic beauty product. The Advanced Beauty Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "129",
+    "ELE-3201-129",
+    "Budget Electronics Plus",
+    "Electronics",
+    "$468.53",
+    "11.75",
+    "50×19×8 cm",
+    "A ergonomic, stylish electronics product. The Budget Electronics Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "130",
+    "GAR-9991-130",
+    "Premium Garden Solution",
+    "Garden",
+    "$909.24",
+    "3",
+    "23×52×22 cm",
+    "A versatile, stylish garden product. The Premium Garden Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "131",
+    "OFF-8479-131",
+    "Portable Office Bundle",
+    "Office",
+    "$203.28",
+    "7.68",
+    "25×45×22 cm",
+    "A ergonomic, innovative office product. The Portable Office Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "132",
+    "SPO-6637-132",
+    "Advanced Sports Plus",
+    "Sports",
+    "$38.41",
+    "6.65",
+    "10×30×9 cm",
+    "A innovative, portable sports product. The Advanced Sports Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "133",
+    "ELE-2934-133",
+    "Deluxe Electronics Tool",
+    "Electronics",
+    "$722.49",
+    "16.97",
+    "44×24×25 cm",
+    "A professional, eco-friendly electronics product. The Deluxe Electronics Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "134",
+    "ELE-3402-134",
+    "Portable Electronics Package",
+    "Electronics",
+    "$25.89",
+    "5.94",
+    "10×49×19 cm",
+    "A efficient, ergonomic electronics product. The Portable Electronics Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "135",
+    "CLO-1845-135",
+    "Classic Clothing Set",
+    "Clothing",
+    "$57.90",
+    "4.58",
+    "50×26×16 cm",
+    "A innovative, durable clothing product. The Classic Clothing Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "136",
+    "ELE-7778-136",
+    "Eco-friendly Electronics Series",
+    "Electronics",
+    "$441.79",
+    "10.07",
+    "49×51×21 cm",
+    "A innovative, versatile electronics product. The Eco-friendly Electronics Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "137",
+    "AUT-5067-137",
+    "Compact Automotive Bundle",
+    "Automotive",
+    "$346.56",
+    "0.25",
+    "43×40×10 cm",
+    "A powerful, durable automotive product. The Compact Automotive Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "138",
+    "SPO-9897-138",
+    "Advanced Sports Plus",
+    "Sports",
+    "$154.59",
+    "0.39",
+    "47×20×28 cm",
+    "A lightweight, premium sports product. The Advanced Sports Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "139",
+    "BOO-3044-139",
+    "Smart Books Kit",
+    "Books",
+    "$719.11",
+    "5.34",
+    "50×12×10 cm",
+    "A premium, innovative books product. The Smart Books Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "140",
+    "TOY-5143-140",
+    "Modern Toys Package",
+    "Toys",
+    "$868.72",
+    "11.62",
+    "54×22×33 cm",
+    "A versatile, durable toys product. The Modern Toys Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "141",
+    "HOM-8736-141",
+    "Classic Home & Kitchen Max",
+    "Home & Kitchen",
+    "$71.01",
+    "1",
+    "37×19×21 cm",
+    "A professional, versatile home & kitchen product. The Classic Home & Kitchen Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "142",
+    "OFF-5386-142",
+    "Portable Office System",
+    "Office",
+    "$667.39",
+    "3.45",
+    "52×24×27 cm",
+    "A efficient, durable office product. The Portable Office System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "143",
+    "SPO-9891-143",
+    "Premium Sports Lite",
+    "Sports",
+    "$21.79",
+    "16.26",
+    "30×6×24 cm",
+    "A professional, portable sports product. The Premium Sports Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "144",
+    "HOM-4807-144",
+    "Luxury Home & Kitchen Solution",
+    "Home & Kitchen",
+    "$603.92",
+    "12.63",
+    "33×49×19 cm",
+    "A ergonomic, portable home & kitchen product. The Luxury Home & Kitchen Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "145",
+    "HOM-4605-145",
+    "Budget Home & Kitchen Solution",
+    "Home & Kitchen",
+    "$518.77",
+    "5.61",
+    "38×46×13 cm",
+    "A stylish, eco-friendly home & kitchen product. The Budget Home & Kitchen Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "146",
+    "SPO-6150-146",
+    "Innovative Sports Package",
+    "Sports",
+    "$480.64",
+    "0.28",
+    "47×16×27 cm",
+    "A efficient, ergonomic sports product. The Innovative Sports Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "147",
+    "OFF-1443-147",
+    "Advanced Office Solution",
+    "Office",
+    "$564.42",
+    "4.94",
+    "6×5×27 cm",
+    "A lightweight, high-quality office product. The Advanced Office Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "148",
+    "OFF-3711-148",
+    "Eco-friendly Office System",
+    "Office",
+    "$782.01",
+    "5.27",
+    "19×49×25 cm",
+    "A compact, lightweight office product. The Eco-friendly Office System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "149",
+    "OFF-0787-149",
+    "Modern Office Lite",
+    "Office",
+    "$329.21",
+    "11.23",
+    "31×53×11 cm",
+    "A innovative, compact office product. The Modern Office Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "150",
+    "ELE-5700-150",
+    "Deluxe Electronics Solution",
+    "Electronics",
+    "$397.95",
+    "12.02",
+    "32×21×7 cm",
+    "A compact, ergonomic electronics product. The Deluxe Electronics Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "151",
+    "SPO-9381-151",
+    "Classic Sports Plus",
+    "Sports",
+    "$848.88",
+    "2.32",
+    "43×49×13 cm",
+    "A powerful, innovative sports product. The Classic Sports Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "152",
+    "SPO-6212-152",
+    "Classic Sports Ultra",
+    "Sports",
+    "$480.71",
+    "9.16",
+    "37×37×22 cm",
+    "A stylish, durable sports product. The Classic Sports Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "153",
+    "GAR-4001-153",
+    "Innovative Garden System",
+    "Garden",
+    "$874.34",
+    "13.85",
+    "23×9×29 cm",
+    "A affordable, premium garden product. The Innovative Garden System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "154",
+    "BEA-4537-154",
+    "Deluxe Beauty Bundle",
+    "Beauty",
+    "$182.67",
+    "18.85",
+    "53×8×10 cm",
+    "A powerful, ergonomic beauty product. The Deluxe Beauty Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "155",
+    "GAR-8206-155",
+    "Ultimate Garden Series",
+    "Garden",
+    "$279.19",
+    "2.56",
+    "7×27×28 cm",
+    "A professional, versatile garden product. The Ultimate Garden Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "156",
+    "BEA-6824-156",
+    "Ultimate Beauty Bundle",
+    "Beauty",
+    "$894.40",
+    "14.82",
+    "10×16×17 cm",
+    "A ergonomic, durable beauty product. The Ultimate Beauty Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "157",
+    "HEA-8841-157",
+    "Modern Health Tool",
+    "Health",
+    "$186.35",
+    "4.09",
+    "39×6×27 cm",
+    "A efficient, lightweight health product. The Modern Health Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "158",
+    "OFF-1854-158",
+    "Portable Office Kit",
+    "Office",
+    "$810.63",
+    "6.01",
+    "25×14×8 cm",
+    "A professional, efficient office product. The Portable Office Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "159",
+    "OFF-3100-159",
+    "Professional Office Plus",
+    "Office",
+    "$723.00",
+    "10.74",
+    "7×43×21 cm",
+    "A high-quality, innovative office product. The Professional Office Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "160",
+    "CLO-4373-160",
+    "Luxury Clothing Kit",
+    "Clothing",
+    "$10.62",
+    "19.9",
+    "28×36×27 cm",
+    "A affordable, ergonomic clothing product. The Luxury Clothing Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "161",
+    "HEA-2480-161",
+    "Ultimate Health Max",
+    "Health",
+    "$600.48",
+    "9.65",
+    "41×17×32 cm",
+    "A portable, durable health product. The Ultimate Health Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "162",
+    "AUT-5963-162",
+    "Portable Automotive Pro",
+    "Automotive",
+    "$782.31",
+    "10.21",
+    "7×27×29 cm",
+    "A eco-friendly, affordable automotive product. The Portable Automotive Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "163",
+    "BEA-6358-163",
+    "Portable Beauty Package",
+    "Beauty",
+    "$181.22",
+    "12.93",
+    "46×18×31 cm",
+    "A powerful, affordable beauty product. The Portable Beauty Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "164",
+    "SPO-4458-164",
+    "Ultimate Sports Tool",
+    "Sports",
+    "$275.74",
+    "11.97",
+    "16×21×16 cm",
+    "A portable, stylish sports product. The Ultimate Sports Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "165",
+    "GAR-7142-165",
+    "Compact Garden Collection",
+    "Garden",
+    "$127.48",
+    "0.96",
+    "42×43×12 cm",
+    "A stylish, versatile garden product. The Compact Garden Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "166",
+    "HEA-3212-166",
+    "Classic Health Set",
+    "Health",
+    "$885.13",
+    "11.17",
+    "10×24×26 cm",
+    "A premium, high-quality health product. The Classic Health Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "167",
+    "BOO-4241-167",
+    "Luxury Books Lite",
+    "Books",
+    "$167.92",
+    "11.34",
+    "47×32×28 cm",
+    "A powerful, premium books product. The Luxury Books Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "168",
+    "OFF-4524-168",
+    "Premium Office Set",
+    "Office",
+    "$248.57",
+    "17.89",
+    "34×13×15 cm",
+    "A portable, high-quality office product. The Premium Office Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "169",
+    "HOM-6691-169",
+    "Deluxe Home & Kitchen Set",
+    "Home & Kitchen",
+    "$773.36",
+    "3.74",
+    "13×5×28 cm",
+    "A innovative, affordable home & kitchen product. The Deluxe Home & Kitchen Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "170",
+    "GAR-7947-170",
+    "Classic Garden Set",
+    "Garden",
+    "$122.53",
+    "9.29",
+    "7×7×23 cm",
+    "A versatile, compact garden product. The Classic Garden Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "171",
+    "HEA-9913-171",
+    "Smart Health Ultra",
+    "Health",
+    "$140.81",
+    "1.73",
+    "14×26×10 cm",
+    "A professional, durable health product. The Smart Health Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "172",
+    "ELE-4765-172",
+    "Luxury Electronics Pro",
+    "Electronics",
+    "$987.57",
+    "7.21",
+    "6×51×27 cm",
+    "A affordable, powerful electronics product. The Luxury Electronics Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "173",
+    "SPO-3283-173",
+    "Portable Sports Max",
+    "Sports",
+    "$596.52",
+    "10.12",
+    "22×19×6 cm",
+    "A affordable, powerful sports product. The Portable Sports Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "174",
+    "AUT-3554-174",
+    "Budget Automotive Solution",
+    "Automotive",
+    "$668.70",
+    "11.83",
+    "37×48×29 cm",
+    "A powerful, stylish automotive product. The Budget Automotive Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "175",
+    "AUT-4082-175",
+    "Budget Automotive Max",
+    "Automotive",
+    "$337.65",
+    "6.14",
+    "32×15×8 cm",
+    "A ergonomic, premium automotive product. The Budget Automotive Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "176",
+    "HEA-6781-176",
+    "Luxury Health Pro",
+    "Health",
+    "$195.60",
+    "17.64",
+    "27×23×11 cm",
+    "A portable, powerful health product. The Luxury Health Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "177",
+    "HOM-9676-177",
+    "Budget Home & Kitchen Device",
+    "Home & Kitchen",
+    "$116.21",
+    "4.54",
+    "23×31×7 cm",
+    "A high-quality, affordable home & kitchen product. The Budget Home & Kitchen Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "178",
+    "OFF-9866-178",
+    "Essential Office Max",
+    "Office",
+    "$154.25",
+    "3.43",
+    "17×13×7 cm",
+    "A stylish, ergonomic office product. The Essential Office Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "179",
+    "OFF-6680-179",
+    "Essential Office Package",
+    "Office",
+    "$959.93",
+    "19.32",
+    "40×45×7 cm",
+    "A high-quality, eco-friendly office product. The Essential Office Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "180",
+    "CLO-7791-180",
+    "Innovative Clothing Solution",
+    "Clothing",
+    "$137.89",
+    "0.22",
+    "28×48×33 cm",
+    "A eco-friendly, eco-friendly clothing product. The Innovative Clothing Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "181",
+    "OFF-5322-181",
+    "Classic Office Package",
+    "Office",
+    "$495.71",
+    "9.55",
+    "39×15×13 cm",
+    "A versatile, stylish office product. The Classic Office Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "182",
+    "BOO-3287-182",
+    "Luxury Books Bundle",
+    "Books",
+    "$789.84",
+    "18.85",
+    "37×34×26 cm",
+    "A professional, professional books product. The Luxury Books Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "183",
+    "BOO-6116-183",
+    "Deluxe Books System",
+    "Books",
+    "$593.99",
+    "5.38",
+    "13×9×19 cm",
+    "A lightweight, powerful books product. The Deluxe Books System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "184",
+    "BOO-6097-184",
+    "Innovative Books Pro",
+    "Books",
+    "$215.45",
+    "4.35",
+    "44×13×23 cm",
+    "A innovative, lightweight books product. The Innovative Books Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "185",
+    "HEA-5160-185",
+    "Professional Health Solution",
+    "Health",
+    "$186.91",
+    "18.75",
+    "13×52×25 cm",
+    "A compact, portable health product. The Professional Health Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "186",
+    "HOM-5764-186",
+    "Premium Home & Kitchen Lite",
+    "Home & Kitchen",
+    "$742.16",
+    "11.97",
+    "27×11×27 cm",
+    "A ergonomic, compact home & kitchen product. The Premium Home & Kitchen Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "187",
+    "HOM-5856-187",
+    "Professional Home & Kitchen Kit",
+    "Home & Kitchen",
+    "$444.71",
+    "5.38",
+    "46×23×26 cm",
+    "A powerful, affordable home & kitchen product. The Professional Home & Kitchen Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "188",
+    "ELE-1595-188",
+    "Essential Electronics Device",
+    "Electronics",
+    "$754.48",
+    "12.52",
+    "33×18×14 cm",
+    "A ergonomic, affordable electronics product. The Essential Electronics Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "189",
+    "CLO-1720-189",
+    "Budget Clothing Pro",
+    "Clothing",
+    "$351.16",
+    "19.28",
+    "24×15×10 cm",
+    "A lightweight, high-quality clothing product. The Budget Clothing Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "190",
+    "CLO-4399-190",
+    "Portable Clothing Max",
+    "Clothing",
+    "$758.49",
+    "13.62",
+    "53×32×9 cm",
+    "A premium, portable clothing product. The Portable Clothing Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "191",
+    "ELE-6156-191",
+    "Modern Electronics Solution",
+    "Electronics",
+    "$392.46",
+    "9.18",
+    "54×54×21 cm",
+    "A ergonomic, eco-friendly electronics product. The Modern Electronics Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "192",
+    "OFF-5798-192",
+    "Smart Office Pro",
+    "Office",
+    "$457.14",
+    "10.16",
+    "16×18×31 cm",
+    "A affordable, durable office product. The Smart Office Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "193",
+    "SPO-8704-193",
+    "Advanced Sports Bundle",
+    "Sports",
+    "$642.65",
+    "4.73",
+    "15×13×30 cm",
+    "A stylish, durable sports product. The Advanced Sports Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "194",
+    "GAR-2367-194",
+    "Professional Garden Collection",
+    "Garden",
+    "$825.23",
+    "16.41",
+    "28×33×19 cm",
+    "A lightweight, powerful garden product. The Professional Garden Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "195",
+    "HEA-6063-195",
+    "Classic Health Bundle",
+    "Health",
+    "$533.98",
+    "7.44",
+    "46×20×34 cm",
+    "A ergonomic, eco-friendly health product. The Classic Health Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "196",
+    "AUT-4070-196",
+    "Portable Automotive Pro",
+    "Automotive",
+    "$672.57",
+    "11.54",
+    "35×26×26 cm",
+    "A ergonomic, lightweight automotive product. The Portable Automotive Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "197",
+    "CLO-4424-197",
+    "Portable Clothing System",
+    "Clothing",
+    "$332.08",
+    "8.93",
+    "5×38×31 cm",
+    "A lightweight, durable clothing product. The Portable Clothing System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "198",
+    "BEA-9483-198",
+    "Innovative Beauty Collection",
+    "Beauty",
+    "$999.44",
+    "7.73",
+    "53×42×24 cm",
+    "A portable, lightweight beauty product. The Innovative Beauty Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "199",
+    "ELE-7923-199",
+    "Premium Electronics System",
+    "Electronics",
+    "$220.26",
+    "9.06",
+    "45×19×7 cm",
+    "A premium, lightweight electronics product. The Premium Electronics System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "200",
+    "HEA-5489-200",
+    "Smart Health Pro",
+    "Health",
+    "$176.11",
+    "9.21",
+    "51×50×32 cm",
+    "A durable, versatile health product. The Smart Health Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "201",
+    "BEA-1293-201",
+    "Deluxe Beauty System",
+    "Beauty",
+    "$246.34",
+    "11.46",
+    "32×42×18 cm",
+    "A efficient, professional beauty product. The Deluxe Beauty System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "202",
+    "SPO-9723-202",
+    "Premium Sports Lite",
+    "Sports",
+    "$952.13",
+    "9.86",
+    "50×49×31 cm",
+    "A durable, lightweight sports product. The Premium Sports Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "203",
+    "GAR-3735-203",
+    "Essential Garden Ultra",
+    "Garden",
+    "$184.46",
+    "19.89",
+    "31×39×28 cm",
+    "A innovative, innovative garden product. The Essential Garden Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "204",
+    "OFF-7771-204",
+    "Eco-friendly Office Max",
+    "Office",
+    "$456.86",
+    "6.72",
+    "14×29×33 cm",
+    "A premium, lightweight office product. The Eco-friendly Office Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "205",
+    "BEA-0083-205",
+    "Advanced Beauty Tool",
+    "Beauty",
+    "$134.74",
+    "9.77",
+    "9×40×14 cm",
+    "A high-quality, professional beauty product. The Advanced Beauty Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "206",
+    "BOO-2571-206",
+    "Innovative Books Collection",
+    "Books",
+    "$64.87",
+    "5.05",
+    "41×46×30 cm",
+    "A powerful, affordable books product. The Innovative Books Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "207",
+    "HOM-2184-207",
+    "Portable Home & Kitchen Max",
+    "Home & Kitchen",
+    "$198.82",
+    "4.27",
+    "54×29×10 cm",
+    "A powerful, affordable home & kitchen product. The Portable Home & Kitchen Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "208",
+    "SPO-2302-208",
+    "Classic Sports Series",
+    "Sports",
+    "$195.18",
+    "2.81",
+    "47×23×5 cm",
+    "A efficient, professional sports product. The Classic Sports Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "209",
+    "SPO-9825-209",
+    "Modern Sports Collection",
+    "Sports",
+    "$732.45",
+    "11.94",
+    "6×36×27 cm",
+    "A professional, portable sports product. The Modern Sports Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "210",
+    "HOM-6376-210",
+    "Budget Home & Kitchen Tool",
+    "Home & Kitchen",
+    "$822.82",
+    "15.38",
+    "34×11×8 cm",
+    "A high-quality, professional home & kitchen product. The Budget Home & Kitchen Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "211",
+    "HOM-8493-211",
+    "Smart Home & Kitchen Device",
+    "Home & Kitchen",
+    "$400.10",
+    "0.36",
+    "18×22×11 cm",
+    "A portable, ergonomic home & kitchen product. The Smart Home & Kitchen Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "212",
+    "HOM-9479-212",
+    "Portable Home & Kitchen Max",
+    "Home & Kitchen",
+    "$862.94",
+    "4.21",
+    "41×14×20 cm",
+    "A innovative, durable home & kitchen product. The Portable Home & Kitchen Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "213",
+    "HEA-2897-213",
+    "Portable Health Series",
+    "Health",
+    "$204.69",
+    "9.99",
+    "39×37×10 cm",
+    "A professional, stylish health product. The Portable Health Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "214",
+    "OFF-2348-214",
+    "Premium Office Solution",
+    "Office",
+    "$554.47",
+    "10.39",
+    "37×19×24 cm",
+    "A compact, high-quality office product. The Premium Office Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "215",
+    "GAR-7594-215",
+    "Premium Garden Kit",
+    "Garden",
+    "$705.50",
+    "16.94",
+    "24×36×25 cm",
+    "A eco-friendly, innovative garden product. The Premium Garden Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "216",
+    "TOY-1194-216",
+    "Luxury Toys Ultra",
+    "Toys",
+    "$918.02",
+    "2.11",
+    "51×29×22 cm",
+    "A premium, portable toys product. The Luxury Toys Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "217",
+    "CLO-7358-217",
+    "Deluxe Clothing Solution",
+    "Clothing",
+    "$998.11",
+    "13.77",
+    "13×53×29 cm",
+    "A innovative, powerful clothing product. The Deluxe Clothing Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "218",
+    "AUT-1270-218",
+    "Essential Automotive Ultra",
+    "Automotive",
+    "$850.82",
+    "18.39",
+    "47×43×18 cm",
+    "A high-quality, powerful automotive product. The Essential Automotive Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "219",
+    "TOY-7737-219",
+    "Advanced Toys Pro",
+    "Toys",
+    "$188.62",
+    "15.51",
+    "25×15×19 cm",
+    "A portable, professional toys product. The Advanced Toys Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "TOY-1181-0",
+    "Compact Toys Plus",
+    "Toys",
+    "$467.99",
+    "0.67",
+    "11×27×25 cm",
+    "A lightweight, stylish toys product. The Compact Toys Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "OFF-5756-1",
+    "Portable Office Bundle",
+    "Office",
+    "$943.10",
+    "14.78",
+    "29×20×23 cm",
+    "A innovative, lightweight office product. The Portable Office Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "CLO-5585-2",
+    "Advanced Clothing Max",
+    "Clothing",
+    "$574.32",
+    "14.88",
+    "12×17×7 cm",
+    "A high-quality, ergonomic clothing product. The Advanced Clothing Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "AUT-6577-3",
+    "Ultimate Automotive Lite",
+    "Automotive",
+    "$455.62",
+    "10.81",
+    "36×13×27 cm",
+    "A ergonomic, compact automotive product. The Ultimate Automotive Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "HEA-1504-4",
+    "Premium Health Max",
+    "Health",
+    "$560.25",
+    "2.39",
+    "18×23×15 cm",
+    "A professional, eco-friendly health product. The Premium Health Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "GAR-8174-5",
+    "Luxury Garden Ultra",
+    "Garden",
+    "$193.02",
+    "11.15",
+    "52×19×32 cm",
+    "A lightweight, compact garden product. The Luxury Garden Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "BOO-9569-6",
+    "Luxury Books Series",
+    "Books",
+    "$148.67",
+    "13.87",
+    "21×32×32 cm",
+    "A lightweight, stylish books product. The Luxury Books Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "HEA-3996-7",
+    "Budget Health System",
+    "Health",
+    "$980.48",
+    "19.63",
+    "18×40×31 cm",
+    "A lightweight, high-quality health product. The Budget Health System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "GAR-8859-8",
+    "Modern Garden Max",
+    "Garden",
+    "$621.57",
+    "17.3",
+    "20×6×20 cm",
+    "A affordable, high-quality garden product. The Modern Garden Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "BOO-3175-9",
+    "Budget Books Plus",
+    "Books",
+    "$483.77",
+    "11.49",
+    "40×37×12 cm",
+    "A eco-friendly, portable books product. The Budget Books Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "TOY-6806-10",
+    "Classic Toys Max",
+    "Toys",
+    "$565.18",
+    "16.9",
+    "50×51×19 cm",
+    "A lightweight, lightweight toys product. The Classic Toys Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "SPO-0399-11",
+    "Classic Sports Collection",
+    "Sports",
+    "$930.74",
+    "13.17",
+    "38×32×18 cm",
+    "A durable, lightweight sports product. The Classic Sports Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "TOY-0305-12",
+    "Modern Toys Max",
+    "Toys",
+    "$755.10",
+    "3.19",
+    "45×13×32 cm",
+    "A eco-friendly, lightweight toys product. The Modern Toys Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "BOO-1693-13",
+    "Professional Books Lite",
+    "Books",
+    "$493.99",
+    "11.23",
+    "11×52×21 cm",
+    "A versatile, innovative books product. The Professional Books Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "GAR-0261-14",
+    "Premium Garden Lite",
+    "Garden",
+    "$18.92",
+    "10.01",
+    "41×10×20 cm",
+    "A powerful, innovative garden product. The Premium Garden Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "BEA-3177-15",
+    "Compact Beauty Series",
+    "Beauty",
+    "$710.99",
+    "5.11",
+    "7×31×33 cm",
+    "A stylish, ergonomic beauty product. The Compact Beauty Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "BOO-8544-16",
+    "Compact Books Series",
+    "Books",
+    "$935.13",
+    "15.62",
+    "28×52×21 cm",
+    "A ergonomic, powerful books product. The Compact Books Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "AUT-2151-17",
+    "Advanced Automotive Set",
+    "Automotive",
+    "$491.20",
+    "13.17",
+    "37×13×23 cm",
+    "A lightweight, portable automotive product. The Advanced Automotive Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "GAR-4766-18",
+    "Advanced Garden Collection",
+    "Garden",
+    "$708.00",
+    "19.03",
+    "37×12×8 cm",
+    "A portable, durable garden product. The Advanced Garden Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "BEA-2192-19",
+    "Professional Beauty Plus",
+    "Beauty",
+    "$209.39",
+    "13.05",
+    "16×45×22 cm",
+    "A innovative, efficient beauty product. The Professional Beauty Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "HEA-1876-0",
+    "Essential Health Pro",
+    "Health",
+    "$437.13",
+    "10.38",
+    "51×51×33 cm",
+    "A innovative, innovative health product. The Essential Health Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "GAR-0451-1",
+    "Advanced Garden Ultra",
+    "Garden",
+    "$551.61",
+    "9.88",
+    "41×48×19 cm",
+    "A affordable, portable garden product. The Advanced Garden Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "TOY-9006-2",
+    "Deluxe Toys Device",
+    "Toys",
+    "$517.79",
+    "6.93",
+    "49×34×33 cm",
+    "A premium, versatile toys product. The Deluxe Toys Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "BEA-0301-3",
+    "Premium Beauty Package",
+    "Beauty",
+    "$306.36",
+    "11.21",
+    "14×27×28 cm",
+    "A durable, high-quality beauty product. The Premium Beauty Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "BEA-6687-4",
+    "Compact Beauty Tool",
+    "Beauty",
+    "$991.57",
+    "4.49",
+    "36×51×31 cm",
+    "A high-quality, affordable beauty product. The Compact Beauty Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "SPO-2949-5",
+    "Essential Sports Series",
+    "Sports",
+    "$207.52",
+    "7.92",
+    "20×45×7 cm",
+    "A powerful, premium sports product. The Essential Sports Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "HEA-0446-6",
+    "Essential Health Tool",
+    "Health",
+    "$804.98",
+    "1.48",
+    "50×47×11 cm",
+    "A portable, innovative health product. The Essential Health Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "TOY-3050-7",
+    "Advanced Toys Pro",
+    "Toys",
+    "$184.33",
+    "13.57",
+    "10×29×21 cm",
+    "A efficient, high-quality toys product. The Advanced Toys Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "GAR-1477-8",
+    "Essential Garden Max",
+    "Garden",
+    "$13.00",
+    "10.65",
+    "27×50×8 cm",
+    "A eco-friendly, premium garden product. The Essential Garden Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "AUT-3147-9",
+    "Advanced Automotive Kit",
+    "Automotive",
+    "$793.83",
+    "1.72",
+    "8×42×33 cm",
+    "A efficient, powerful automotive product. The Advanced Automotive Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "OFF-2242-10",
+    "Compact Office Max",
+    "Office",
+    "$946.55",
+    "15.83",
+    "50×12×22 cm",
+    "A ergonomic, compact office product. The Compact Office Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "AUT-0677-11",
+    "Ultimate Automotive Set",
+    "Automotive",
+    "$896.45",
+    "7.17",
+    "36×13×25 cm",
+    "A versatile, compact automotive product. The Ultimate Automotive Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "BEA-3943-12",
+    "Innovative Beauty Series",
+    "Beauty",
+    "$605.13",
+    "6.32",
+    "45×12×17 cm",
+    "A innovative, stylish beauty product. The Innovative Beauty Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "GAR-3483-13",
+    "Advanced Garden Tool",
+    "Garden",
+    "$136.20",
+    "13.81",
+    "22×5×16 cm",
+    "A premium, affordable garden product. The Advanced Garden Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "SPO-6150-14",
+    "Ultimate Sports Pro",
+    "Sports",
+    "$576.41",
+    "19.86",
+    "35×36×7 cm",
+    "A portable, ergonomic sports product. The Ultimate Sports Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "BOO-9528-15",
+    "Classic Books System",
+    "Books",
+    "$808.38",
+    "0.97",
+    "11×34×30 cm",
+    "A ergonomic, premium books product. The Classic Books System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "TOY-3752-16",
+    "Advanced Toys Package",
+    "Toys",
+    "$167.76",
+    "9.39",
+    "41×39×25 cm",
+    "A professional, high-quality toys product. The Advanced Toys Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "ELE-4419-17",
+    "Advanced Electronics Solution",
+    "Electronics",
+    "$75.86",
+    "2.77",
+    "8×18×21 cm",
+    "A durable, efficient electronics product. The Advanced Electronics Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "AUT-1302-18",
+    "Compact Automotive Tool",
+    "Automotive",
+    "$158.14",
+    "16.07",
+    "39×35×9 cm",
+    "A lightweight, innovative automotive product. The Compact Automotive Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "TOY-4612-19",
+    "Portable Toys Collection",
+    "Toys",
+    "$278.90",
+    "6.96",
+    "50×53×13 cm",
+    "A innovative, innovative toys product. The Portable Toys Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "ELE-4767-0",
+    "Ultimate Electronics Package",
+    "Electronics",
+    "$690.93",
+    "6.18",
+    "51×37×31 cm",
+    "A lightweight, versatile electronics product. The Ultimate Electronics Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "GAR-1270-1",
+    "Professional Garden Kit",
+    "Garden",
+    "$845.35",
+    "3.24",
+    "14×13×27 cm",
+    "A lightweight, efficient garden product. The Professional Garden Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "BOO-9734-2",
+    "Essential Books Set",
+    "Books",
+    "$244.39",
+    "14.9",
+    "42×54×5 cm",
+    "A compact, premium books product. The Essential Books Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "TOY-2685-3",
+    "Luxury Toys Solution",
+    "Toys",
+    "$630.61",
+    "6.93",
+    "28×8×27 cm",
+    "A portable, eco-friendly toys product. The Luxury Toys Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "BOO-6818-4",
+    "Professional Books Collection",
+    "Books",
+    "$270.21",
+    "11.14",
+    "47×45×33 cm",
+    "A affordable, innovative books product. The Professional Books Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "OFF-1243-5",
+    "Premium Office System",
+    "Office",
+    "$505.31",
+    "5.36",
+    "38×47×5 cm",
+    "A innovative, ergonomic office product. The Premium Office System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "CLO-9493-6",
+    "Ultimate Clothing Pro",
+    "Clothing",
+    "$740.48",
+    "15.41",
+    "25×21×29 cm",
+    "A eco-friendly, portable clothing product. The Ultimate Clothing Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "ELE-5534-7",
+    "Luxury Electronics Bundle",
+    "Electronics",
+    "$698.43",
+    "12.31",
+    "45×54×22 cm",
+    "A versatile, durable electronics product. The Luxury Electronics Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "AUT-1947-8",
+    "Innovative Automotive Package",
+    "Automotive",
+    "$598.81",
+    "11.09",
+    "33×20×22 cm",
+    "A professional, ergonomic automotive product. The Innovative Automotive Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "GAR-9402-9",
+    "Compact Garden System",
+    "Garden",
+    "$612.51",
+    "6.42",
+    "21×33×32 cm",
+    "A affordable, innovative garden product. The Compact Garden System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "BEA-3116-10",
+    "Advanced Beauty Bundle",
+    "Beauty",
+    "$827.56",
+    "4.44",
+    "29×54×23 cm",
+    "A efficient, innovative beauty product. The Advanced Beauty Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "AUT-4232-11",
+    "Eco-friendly Automotive Pro",
+    "Automotive",
+    "$449.34",
+    "18.72",
+    "7×37×28 cm",
+    "A versatile, affordable automotive product. The Eco-friendly Automotive Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "TOY-4207-12",
+    "Deluxe Toys Set",
+    "Toys",
+    "$962.52",
+    "8.55",
+    "25×17×18 cm",
+    "A premium, versatile toys product. The Deluxe Toys Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "HOM-6540-13",
+    "Ultimate Home & Kitchen Pro",
+    "Home & Kitchen",
+    "$356.17",
+    "7.87",
+    "52×54×24 cm",
+    "A ergonomic, stylish home & kitchen product. The Ultimate Home & Kitchen Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "CLO-0491-14",
+    "Ultimate Clothing Max",
+    "Clothing",
+    "$533.79",
+    "1.22",
+    "21×18×29 cm",
+    "A efficient, stylish clothing product. The Ultimate Clothing Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "HEA-6175-15",
+    "Eco-friendly Health Series",
+    "Health",
+    "$830.35",
+    "2.34",
+    "8×30×25 cm",
+    "A eco-friendly, portable health product. The Eco-friendly Health Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "HOM-4149-16",
+    "Deluxe Home & Kitchen Ultra",
+    "Home & Kitchen",
+    "$994.86",
+    "9.76",
+    "50×24×9 cm",
+    "A premium, eco-friendly home & kitchen product. The Deluxe Home & Kitchen Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "ELE-6990-17",
+    "Budget Electronics Solution",
+    "Electronics",
+    "$272.76",
+    "15.07",
+    "45×22×6 cm",
+    "A portable, efficient electronics product. The Budget Electronics Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "SPO-3697-18",
+    "Smart Sports System",
+    "Sports",
+    "$984.97",
+    "12.34",
+    "47×22×9 cm",
+    "A ergonomic, versatile sports product. The Smart Sports System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "TOY-8987-19",
+    "Portable Toys Collection",
+    "Toys",
+    "$477.52",
+    "0.57",
+    "25×54×34 cm",
+    "A compact, professional toys product. The Portable Toys Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "HEA-8036-0",
+    "Modern Health Collection",
+    "Health",
+    "$417.64",
+    "0.36",
+    "5×35×9 cm",
+    "A efficient, powerful health product. The Modern Health Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "HEA-9072-1",
+    "Modern Health Package",
+    "Health",
+    "$30.92",
+    "19.45",
+    "33×50×23 cm",
+    "A eco-friendly, stylish health product. The Modern Health Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "GAR-8305-2",
+    "Budget Garden Device",
+    "Garden",
+    "$621.16",
+    "5.07",
+    "51×9×14 cm",
+    "A ergonomic, professional garden product. The Budget Garden Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "TOY-3523-3",
+    "Modern Toys Pro",
+    "Toys",
+    "$946.81",
+    "16.82",
+    "17×27×11 cm",
+    "A efficient, affordable toys product. The Modern Toys Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "ELE-5012-4",
+    "Smart Electronics Plus",
+    "Electronics",
+    "$458.19",
+    "17.29",
+    "40×46×19 cm",
+    "A compact, affordable electronics product. The Smart Electronics Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "CLO-7225-5",
+    "Advanced Clothing Solution",
+    "Clothing",
+    "$674.73",
+    "18.05",
+    "39×20×24 cm",
+    "A compact, innovative clothing product. The Advanced Clothing Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "BOO-3070-6",
+    "Professional Books Solution",
+    "Books",
+    "$819.15",
+    "12.9",
+    "36×25×30 cm",
+    "A portable, stylish books product. The Professional Books Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "HEA-2464-7",
+    "Portable Health Collection",
+    "Health",
+    "$777.16",
+    "12.98",
+    "29×28×13 cm",
+    "A durable, portable health product. The Portable Health Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "ELE-0214-8",
+    "Essential Electronics Pro",
+    "Electronics",
+    "$323.08",
+    "2.19",
+    "11×27×10 cm",
+    "A lightweight, professional electronics product. The Essential Electronics Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "CLO-1205-9",
+    "Classic Clothing Solution",
+    "Clothing",
+    "$563.92",
+    "15.33",
+    "25×31×29 cm",
+    "A high-quality, premium clothing product. The Classic Clothing Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "CLO-4860-10",
+    "Classic Clothing Series",
+    "Clothing",
+    "$46.06",
+    "14.76",
+    "23×50×15 cm",
+    "A professional, efficient clothing product. The Classic Clothing Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "GAR-1650-11",
+    "Deluxe Garden Ultra",
+    "Garden",
+    "$322.28",
+    "7.65",
+    "25×48×31 cm",
+    "A premium, compact garden product. The Deluxe Garden Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "TOY-6414-12",
+    "Portable Toys Tool",
+    "Toys",
+    "$86.35",
+    "12.97",
+    "43×31×26 cm",
+    "A affordable, ergonomic toys product. The Portable Toys Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "TOY-5278-13",
+    "Classic Toys Tool",
+    "Toys",
+    "$363.95",
+    "17.95",
+    "44×8×13 cm",
+    "A high-quality, efficient toys product. The Classic Toys Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "ELE-0852-14",
+    "Premium Electronics Device",
+    "Electronics",
+    "$279.41",
+    "5.84",
+    "15×18×23 cm",
+    "A powerful, high-quality electronics product. The Premium Electronics Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "GAR-3443-15",
+    "Classic Garden Pro",
+    "Garden",
+    "$921.73",
+    "14.15",
+    "7×54×16 cm",
+    "A premium, ergonomic garden product. The Classic Garden Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "ELE-6080-16",
+    "Budget Electronics Collection",
+    "Electronics",
+    "$680.14",
+    "16.38",
+    "30×53×32 cm",
+    "A professional, powerful electronics product. The Budget Electronics Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "AUT-0808-17",
+    "Compact Automotive Bundle",
+    "Automotive",
+    "$827.81",
+    "9.6",
+    "48×5×34 cm",
+    "A portable, versatile automotive product. The Compact Automotive Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "CLO-0910-18",
+    "Luxury Clothing Ultra",
+    "Clothing",
+    "$32.24",
+    "9.6",
+    "26×46×9 cm",
+    "A lightweight, compact clothing product. The Luxury Clothing Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "HEA-2591-19",
+    "Compact Health Device",
+    "Health",
+    "$827.78",
+    "18.13",
+    "26×50×7 cm",
+    "A powerful, innovative health product. The Compact Health Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "BOO-7911-0",
+    "Portable Books Lite",
+    "Books",
+    "$321.23",
+    "19.13",
+    "36×53×12 cm",
+    "A compact, efficient books product. The Portable Books Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "HOM-8345-1",
+    "Essential Home & Kitchen Collection",
+    "Home & Kitchen",
+    "$96.92",
+    "16.93",
+    "51×32×30 cm",
+    "A efficient, premium home & kitchen product. The Essential Home & Kitchen Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "BEA-9845-2",
+    "Modern Beauty Plus",
+    "Beauty",
+    "$701.56",
+    "16.29",
+    "47×20×34 cm",
+    "A portable, efficient beauty product. The Modern Beauty Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "SPO-1071-3",
+    "Advanced Sports System",
+    "Sports",
+    "$849.55",
+    "20.06",
+    "41×54×29 cm",
+    "A versatile, portable sports product. The Advanced Sports System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "AUT-1728-4",
+    "Essential Automotive Solution",
+    "Automotive",
+    "$144.53",
+    "11.7",
+    "6×11×34 cm",
+    "A stylish, high-quality automotive product. The Essential Automotive Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "HOM-3634-5",
+    "Essential Home & Kitchen Lite",
+    "Home & Kitchen",
+    "$53.23",
+    "13.03",
+    "44×35×16 cm",
+    "A eco-friendly, versatile home & kitchen product. The Essential Home & Kitchen Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "CLO-5925-6",
+    "Portable Clothing Plus",
+    "Clothing",
+    "$875.68",
+    "19.44",
+    "11×49×24 cm",
+    "A ergonomic, durable clothing product. The Portable Clothing Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "TOY-7612-7",
+    "Professional Toys Tool",
+    "Toys",
+    "$580.36",
+    "13.81",
+    "11×37×16 cm",
+    "A innovative, portable toys product. The Professional Toys Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "HOM-9139-8",
+    "Smart Home & Kitchen Device",
+    "Home & Kitchen",
+    "$49.58",
+    "1.72",
+    "30×51×20 cm",
+    "A compact, eco-friendly home & kitchen product. The Smart Home & Kitchen Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "HOM-0471-9",
+    "Luxury Home & Kitchen Tool",
+    "Home & Kitchen",
+    "$784.71",
+    "4.35",
+    "44×7×23 cm",
+    "A efficient, versatile home & kitchen product. The Luxury Home & Kitchen Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "AUT-0681-10",
+    "Budget Automotive Max",
+    "Automotive",
+    "$135.17",
+    "1.68",
+    "26×36×10 cm",
+    "A portable, high-quality automotive product. The Budget Automotive Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "CLO-1309-11",
+    "Ultimate Clothing Pro",
+    "Clothing",
+    "$364.88",
+    "8.68",
+    "41×9×27 cm",
+    "A versatile, efficient clothing product. The Ultimate Clothing Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "CLO-7363-12",
+    "Compact Clothing Package",
+    "Clothing",
+    "$486.77",
+    "16.4",
+    "12×6×6 cm",
+    "A lightweight, eco-friendly clothing product. The Compact Clothing Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "BOO-9705-13",
+    "Luxury Books Pro",
+    "Books",
+    "$274.21",
+    "1.95",
+    "48×11×13 cm",
+    "A versatile, high-quality books product. The Luxury Books Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "OFF-2513-14",
+    "Innovative Office Pro",
+    "Office",
+    "$330.27",
+    "16.93",
+    "31×51×9 cm",
+    "A lightweight, affordable office product. The Innovative Office Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "HEA-1558-15",
+    "Deluxe Health System",
+    "Health",
+    "$253.39",
+    "2.09",
+    "40×35×7 cm",
+    "A high-quality, stylish health product. The Deluxe Health System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "BEA-7462-16",
+    "Innovative Beauty Ultra",
+    "Beauty",
+    "$33.92",
+    "17.12",
+    "38×47×21 cm",
+    "A high-quality, premium beauty product. The Innovative Beauty Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "HOM-8100-17",
+    "Luxury Home & Kitchen Plus",
+    "Home & Kitchen",
+    "$733.82",
+    "17.7",
+    "48×32×28 cm",
+    "A powerful, powerful home & kitchen product. The Luxury Home & Kitchen Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "SPO-6622-18",
+    "Eco-friendly Sports Max",
+    "Sports",
+    "$225.02",
+    "6.93",
+    "53×21×20 cm",
+    "A eco-friendly, stylish sports product. The Eco-friendly Sports Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "OFF-6709-19",
+    "Premium Office Lite",
+    "Office",
+    "$444.84",
+    "15.67",
+    "19×24×21 cm",
+    "A powerful, ergonomic office product. The Premium Office Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "OFF-7590-0",
+    "Compact Office Device",
+    "Office",
+    "$666.47",
+    "9.46",
+    "28×15×21 cm",
+    "A professional, high-quality office product. The Compact Office Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "ELE-8292-1",
+    "Modern Electronics Bundle",
+    "Electronics",
+    "$14.90",
+    "12.55",
+    "41×20×5 cm",
+    "A efficient, innovative electronics product. The Modern Electronics Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "HEA-8837-2",
+    "Advanced Health Series",
+    "Health",
+    "$245.81",
+    "20.05",
+    "28×19×9 cm",
+    "A eco-friendly, ergonomic health product. The Advanced Health Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "GAR-0019-3",
+    "Innovative Garden Package",
+    "Garden",
+    "$188.15",
+    "15.02",
+    "39×49×30 cm",
+    "A affordable, premium garden product. The Innovative Garden Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "SPO-8575-4",
+    "Deluxe Sports Lite",
+    "Sports",
+    "$301.94",
+    "18.41",
+    "14×31×33 cm",
+    "A eco-friendly, high-quality sports product. The Deluxe Sports Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "HOM-2896-5",
+    "Classic Home & Kitchen Tool",
+    "Home & Kitchen",
+    "$335.10",
+    "14.92",
+    "7×52×8 cm",
+    "A professional, lightweight home & kitchen product. The Classic Home & Kitchen Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "BEA-5018-6",
+    "Portable Beauty Pro",
+    "Beauty",
+    "$760.33",
+    "17.82",
+    "7×23×25 cm",
+    "A lightweight, premium beauty product. The Portable Beauty Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "TOY-6922-7",
+    "Smart Toys Kit",
+    "Toys",
+    "$81.89",
+    "9.78",
+    "22×11×10 cm",
+    "A ergonomic, durable toys product. The Smart Toys Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "SPO-9913-8",
+    "Smart Sports Series",
+    "Sports",
+    "$618.98",
+    "8.35",
+    "23×6×9 cm",
+    "A premium, professional sports product. The Smart Sports Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "TOY-6609-9",
+    "Deluxe Toys Tool",
+    "Toys",
+    "$639.99",
+    "17.89",
+    "50×34×17 cm",
+    "A versatile, lightweight toys product. The Deluxe Toys Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "HEA-5985-10",
+    "Premium Health Ultra",
+    "Health",
+    "$863.14",
+    "10.08",
+    "6×29×12 cm",
+    "A efficient, efficient health product. The Premium Health Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "TOY-0242-11",
+    "Ultimate Toys Lite",
+    "Toys",
+    "$773.92",
+    "0.58",
+    "20×36×13 cm",
+    "A ergonomic, professional toys product. The Ultimate Toys Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "SPO-9920-12",
+    "Ultimate Sports Device",
+    "Sports",
+    "$745.87",
+    "13.77",
+    "20×46×5 cm",
+    "A portable, efficient sports product. The Ultimate Sports Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "AUT-3571-13",
+    "Classic Automotive Lite",
+    "Automotive",
+    "$937.36",
+    "16.23",
+    "38×40×33 cm",
+    "A innovative, lightweight automotive product. The Classic Automotive Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "HEA-8498-14",
+    "Premium Health Solution",
+    "Health",
+    "$966.85",
+    "11.32",
+    "45×11×29 cm",
+    "A durable, professional health product. The Premium Health Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "CLO-0094-15",
+    "Smart Clothing Package",
+    "Clothing",
+    "$341.08",
+    "5.06",
+    "49×9×5 cm",
+    "A high-quality, high-quality clothing product. The Smart Clothing Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "OFF-3556-16",
+    "Portable Office Plus",
+    "Office",
+    "$157.09",
+    "7.13",
+    "32×5×7 cm",
+    "A portable, durable office product. The Portable Office Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "CLO-1299-17",
+    "Innovative Clothing Lite",
+    "Clothing",
+    "$66.68",
+    "11.62",
+    "34×11×26 cm",
+    "A professional, durable clothing product. The Innovative Clothing Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "ELE-4967-18",
+    "Professional Electronics Ultra",
+    "Electronics",
+    "$524.61",
+    "18.87",
+    "31×51×31 cm",
+    "A high-quality, professional electronics product. The Professional Electronics Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "CLO-6283-19",
+    "Deluxe Clothing Plus",
+    "Clothing",
+    "$114.63",
+    "0.94",
+    "34×31×17 cm",
+    "A premium, compact clothing product. The Deluxe Clothing Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "GAR-3110-0",
+    "Classic Garden Lite",
+    "Garden",
+    "$672.48",
+    "9.17",
+    "27×20×26 cm",
+    "A powerful, affordable garden product. The Classic Garden Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "HOM-6059-1",
+    "Smart Home & Kitchen Collection",
+    "Home & Kitchen",
+    "$114.51",
+    "14.1",
+    "43×6×13 cm",
+    "A eco-friendly, high-quality home & kitchen product. The Smart Home & Kitchen Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "AUT-7778-2",
+    "Smart Automotive Max",
+    "Automotive",
+    "$801.22",
+    "16.04",
+    "31×5×5 cm",
+    "A affordable, professional automotive product. The Smart Automotive Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "GAR-6555-3",
+    "Innovative Garden Max",
+    "Garden",
+    "$818.37",
+    "12.15",
+    "44×51×5 cm",
+    "A versatile, eco-friendly garden product. The Innovative Garden Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "ELE-9758-4",
+    "Premium Electronics System",
+    "Electronics",
+    "$63.86",
+    "7.28",
+    "17×19×12 cm",
+    "A ergonomic, compact electronics product. The Premium Electronics System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "GAR-1880-5",
+    "Smart Garden Ultra",
+    "Garden",
+    "$439.72",
+    "15",
+    "28×23×33 cm",
+    "A affordable, high-quality garden product. The Smart Garden Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "ELE-7790-6",
+    "Advanced Electronics Package",
+    "Electronics",
+    "$390.29",
+    "10.66",
+    "35×54×14 cm",
+    "A stylish, premium electronics product. The Advanced Electronics Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "TOY-1154-7",
+    "Premium Toys System",
+    "Toys",
+    "$403.21",
+    "19.2",
+    "10×19×9 cm",
+    "A compact, premium toys product. The Premium Toys System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "HEA-6828-8",
+    "Modern Health Plus",
+    "Health",
+    "$524.05",
+    "1.83",
+    "48×37×34 cm",
+    "A innovative, powerful health product. The Modern Health Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "AUT-5485-9",
+    "Compact Automotive System",
+    "Automotive",
+    "$243.38",
+    "10.3",
+    "47×34×13 cm",
+    "A premium, affordable automotive product. The Compact Automotive System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "BOO-2903-10",
+    "Eco-friendly Books Kit",
+    "Books",
+    "$288.47",
+    "1.79",
+    "39×28×26 cm",
+    "A versatile, powerful books product. The Eco-friendly Books Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "TOY-7786-11",
+    "Compact Toys Pro",
+    "Toys",
+    "$538.94",
+    "12.72",
+    "30×10×7 cm",
+    "A powerful, durable toys product. The Compact Toys Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "GAR-0997-12",
+    "Advanced Garden System",
+    "Garden",
+    "$168.80",
+    "17.96",
+    "40×24×10 cm",
+    "A durable, compact garden product. The Advanced Garden System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "HEA-2287-13",
+    "Premium Health Ultra",
+    "Health",
+    "$627.27",
+    "4.18",
+    "51×21×9 cm",
+    "A efficient, high-quality health product. The Premium Health Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "TOY-6995-14",
+    "Eco-friendly Toys Kit",
+    "Toys",
+    "$345.83",
+    "8.95",
+    "50×15×22 cm",
+    "A ergonomic, innovative toys product. The Eco-friendly Toys Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "BOO-2363-15",
+    "Innovative Books Solution",
+    "Books",
+    "$644.82",
+    "14.78",
+    "52×40×25 cm",
+    "A versatile, durable books product. The Innovative Books Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "GAR-8878-16",
+    "Ultimate Garden Collection",
+    "Garden",
+    "$932.93",
+    "19.57",
+    "32×25×23 cm",
+    "A stylish, ergonomic garden product. The Ultimate Garden Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "AUT-2608-17",
+    "Smart Automotive Plus",
+    "Automotive",
+    "$132.01",
+    "0.76",
+    "10×26×26 cm",
+    "A ergonomic, ergonomic automotive product. The Smart Automotive Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "OFF-7636-18",
+    "Ultimate Office Solution",
+    "Office",
+    "$113.80",
+    "6.46",
+    "36×41×18 cm",
+    "A eco-friendly, durable office product. The Ultimate Office Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "HEA-6171-19",
+    "Professional Health Bundle",
+    "Health",
+    "$236.74",
+    "15.46",
+    "46×8×7 cm",
+    "A versatile, innovative health product. The Professional Health Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "CLO-4494-0",
+    "Professional Clothing Package",
+    "Clothing",
+    "$654.05",
+    "8.63",
+    "12×13×13 cm",
+    "A versatile, lightweight clothing product. The Professional Clothing Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "TOY-4301-1",
+    "Classic Toys Pro",
+    "Toys",
+    "$478.83",
+    "10.61",
+    "42×31×18 cm",
+    "A compact, durable toys product. The Classic Toys Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "ELE-4735-2",
+    "Premium Electronics Set",
+    "Electronics",
+    "$495.49",
+    "2.74",
+    "17×27×29 cm",
+    "A premium, powerful electronics product. The Premium Electronics Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "CLO-4512-3",
+    "Premium Clothing Kit",
+    "Clothing",
+    "$717.91",
+    "9.94",
+    "16×53×8 cm",
+    "A innovative, lightweight clothing product. The Premium Clothing Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "HEA-4699-4",
+    "Essential Health Lite",
+    "Health",
+    "$853.43",
+    "10.56",
+    "25×27×21 cm",
+    "A lightweight, durable health product. The Essential Health Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "SPO-9787-5",
+    "Essential Sports Device",
+    "Sports",
+    "$147.17",
+    "0.74",
+    "10×44×18 cm",
+    "A ergonomic, powerful sports product. The Essential Sports Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "HOM-6003-6",
+    "Modern Home & Kitchen Plus",
+    "Home & Kitchen",
+    "$67.74",
+    "3.98",
+    "28×25×34 cm",
+    "A portable, versatile home & kitchen product. The Modern Home & Kitchen Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "BEA-7388-7",
+    "Classic Beauty Max",
+    "Beauty",
+    "$209.17",
+    "16.26",
+    "13×15×32 cm",
+    "A compact, premium beauty product. The Classic Beauty Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "CLO-9399-8",
+    "Eco-friendly Clothing Device",
+    "Clothing",
+    "$801.29",
+    "15",
+    "7×35×11 cm",
+    "A ergonomic, innovative clothing product. The Eco-friendly Clothing Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "CLO-3614-9",
+    "Eco-friendly Clothing Max",
+    "Clothing",
+    "$649.41",
+    "16.11",
+    "10×33×7 cm",
+    "A compact, efficient clothing product. The Eco-friendly Clothing Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "ELE-2949-10",
+    "Compact Electronics Kit",
+    "Electronics",
+    "$512.07",
+    "7.52",
+    "23×23×19 cm",
+    "A affordable, portable electronics product. The Compact Electronics Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "GAR-5748-11",
+    "Portable Garden Lite",
+    "Garden",
+    "$884.02",
+    "10.08",
+    "5×38×5 cm",
+    "A eco-friendly, innovative garden product. The Portable Garden Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "TOY-0977-12",
+    "Smart Toys Tool",
+    "Toys",
+    "$301.97",
+    "16.36",
+    "37×41×20 cm",
+    "A portable, premium toys product. The Smart Toys Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "BEA-9632-13",
+    "Portable Beauty System",
+    "Beauty",
+    "$537.28",
+    "13.6",
+    "34×29×10 cm",
+    "A lightweight, powerful beauty product. The Portable Beauty System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "ELE-7101-14",
+    "Professional Electronics Plus",
+    "Electronics",
+    "$941.32",
+    "15.39",
+    "44×13×15 cm",
+    "A stylish, ergonomic electronics product. The Professional Electronics Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "BOO-1665-15",
+    "Luxury Books Collection",
+    "Books",
+    "$507.23",
+    "17.23",
+    "54×26×19 cm",
+    "A compact, efficient books product. The Luxury Books Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "SPO-3718-16",
+    "Deluxe Sports Collection",
+    "Sports",
+    "$201.61",
+    "3.7",
+    "20×12×9 cm",
+    "A premium, versatile sports product. The Deluxe Sports Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "HOM-7861-17",
+    "Budget Home & Kitchen Series",
+    "Home & Kitchen",
+    "$47.81",
+    "6.95",
+    "34×35×13 cm",
+    "A ergonomic, ergonomic home & kitchen product. The Budget Home & Kitchen Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "TOY-2919-18",
+    "Portable Toys Lite",
+    "Toys",
+    "$641.16",
+    "9.04",
+    "8×36×17 cm",
+    "A high-quality, efficient toys product. The Portable Toys Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "BEA-5344-19",
+    "Smart Beauty Lite",
+    "Beauty",
+    "$832.03",
+    "0.61",
+    "24×26×8 cm",
+    "A efficient, powerful beauty product. The Smart Beauty Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "SPO-2848-0",
+    "Essential Sports Max",
+    "Sports",
+    "$901.55",
+    "9.73",
+    "12×26×19 cm",
+    "A portable, innovative sports product. The Essential Sports Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "BOO-2430-1",
+    "Professional Books Bundle",
+    "Books",
+    "$220.14",
+    "12.25",
+    "7×40×16 cm",
+    "A powerful, eco-friendly books product. The Professional Books Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "HEA-2589-2",
+    "Ultimate Health Lite",
+    "Health",
+    "$216.01",
+    "15.75",
+    "31×45×21 cm",
+    "A affordable, affordable health product. The Ultimate Health Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "HOM-2943-3",
+    "Classic Home & Kitchen System",
+    "Home & Kitchen",
+    "$236.98",
+    "8.88",
+    "44×16×32 cm",
+    "A durable, powerful home & kitchen product. The Classic Home & Kitchen System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "GAR-5926-4",
+    "Advanced Garden Max",
+    "Garden",
+    "$697.75",
+    "1.67",
+    "50×28×22 cm",
+    "A premium, premium garden product. The Advanced Garden Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "SPO-5175-5",
+    "Essential Sports System",
+    "Sports",
+    "$521.05",
+    "3.45",
+    "34×15×34 cm",
+    "A stylish, efficient sports product. The Essential Sports System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "OFF-2852-6",
+    "Deluxe Office Tool",
+    "Office",
+    "$812.41",
+    "9.94",
+    "12×7×15 cm",
+    "A durable, efficient office product. The Deluxe Office Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "TOY-8517-7",
+    "Compact Toys Plus",
+    "Toys",
+    "$454.58",
+    "15.51",
+    "43×39×26 cm",
+    "A compact, affordable toys product. The Compact Toys Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "CLO-9471-8",
+    "Professional Clothing Max",
+    "Clothing",
+    "$164.48",
+    "19.31",
+    "15×33×14 cm",
+    "A innovative, versatile clothing product. The Professional Clothing Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "SPO-2275-9",
+    "Compact Sports Plus",
+    "Sports",
+    "$913.05",
+    "8.36",
+    "9×23×28 cm",
+    "A versatile, ergonomic sports product. The Compact Sports Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "OFF-2569-10",
+    "Eco-friendly Office Solution",
+    "Office",
+    "$958.65",
+    "19.01",
+    "46×11×20 cm",
+    "A efficient, professional office product. The Eco-friendly Office Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "TOY-2610-11",
+    "Eco-friendly Toys Package",
+    "Toys",
+    "$199.63",
+    "3.93",
+    "16×32×25 cm",
+    "A premium, powerful toys product. The Eco-friendly Toys Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "SPO-8956-12",
+    "Portable Sports Max",
+    "Sports",
+    "$844.37",
+    "13.36",
+    "42×33×8 cm",
+    "A eco-friendly, powerful sports product. The Portable Sports Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "BOO-0193-13",
+    "Essential Books Device",
+    "Books",
+    "$477.43",
+    "8.29",
+    "35×12×6 cm",
+    "A powerful, durable books product. The Essential Books Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "GAR-0209-14",
+    "Portable Garden Series",
+    "Garden",
+    "$328.55",
+    "18.06",
+    "10×49×33 cm",
+    "A portable, innovative garden product. The Portable Garden Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "CLO-4161-15",
+    "Premium Clothing Kit",
+    "Clothing",
+    "$902.58",
+    "9.71",
+    "54×20×12 cm",
+    "A lightweight, compact clothing product. The Premium Clothing Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "BEA-3094-16",
+    "Advanced Beauty Device",
+    "Beauty",
+    "$671.12",
+    "7.44",
+    "33×28×13 cm",
+    "A powerful, versatile beauty product. The Advanced Beauty Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "OFF-7051-17",
+    "Professional Office Kit",
+    "Office",
+    "$735.30",
+    "9.94",
+    "23×47×28 cm",
+    "A durable, portable office product. The Professional Office Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "BOO-1060-18",
+    "Ultimate Books Plus",
+    "Books",
+    "$16.45",
+    "8.08",
+    "23×40×20 cm",
+    "A innovative, versatile books product. The Ultimate Books Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "AUT-0500-19",
+    "Eco-friendly Automotive Package",
+    "Automotive",
+    "$476.50",
+    "18.87",
+    "49×5×5 cm",
+    "A powerful, stylish automotive product. The Eco-friendly Automotive Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "BEA-8966-0",
+    "Eco-friendly Beauty Series",
+    "Beauty",
+    "$234.39",
+    "18.14",
+    "28×49×28 cm",
+    "A eco-friendly, eco-friendly beauty product. The Eco-friendly Beauty Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "HEA-5773-1",
+    "Premium Health Plus",
+    "Health",
+    "$996.00",
+    "18.64",
+    "30×20×31 cm",
+    "A portable, premium health product. The Premium Health Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "HEA-8478-2",
+    "Budget Health Bundle",
+    "Health",
+    "$554.78",
+    "7.17",
+    "53×37×14 cm",
+    "A durable, durable health product. The Budget Health Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "ELE-2061-3",
+    "Smart Electronics Collection",
+    "Electronics",
+    "$368.42",
+    "12.92",
+    "9×29×27 cm",
+    "A stylish, innovative electronics product. The Smart Electronics Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "TOY-6623-4",
+    "Luxury Toys Series",
+    "Toys",
+    "$710.32",
+    "3.22",
+    "10×50×28 cm",
+    "A premium, powerful toys product. The Luxury Toys Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "BOO-4629-5",
+    "Smart Books Pro",
+    "Books",
+    "$283.54",
+    "8.04",
+    "50×38×33 cm",
+    "A lightweight, versatile books product. The Smart Books Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "OFF-0325-6",
+    "Luxury Office Ultra",
+    "Office",
+    "$732.70",
+    "19.64",
+    "19×9×31 cm",
+    "A powerful, high-quality office product. The Luxury Office Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "BEA-3069-7",
+    "Deluxe Beauty Series",
+    "Beauty",
+    "$962.45",
+    "0.62",
+    "54×53×28 cm",
+    "A versatile, compact beauty product. The Deluxe Beauty Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "OFF-1932-8",
+    "Budget Office Ultra",
+    "Office",
+    "$295.57",
+    "6.11",
+    "47×41×16 cm",
+    "A affordable, durable office product. The Budget Office Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "GAR-4781-9",
+    "Professional Garden System",
+    "Garden",
+    "$656.83",
+    "2.4",
+    "52×8×26 cm",
+    "A ergonomic, compact garden product. The Professional Garden System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "TOY-6218-10",
+    "Advanced Toys Ultra",
+    "Toys",
+    "$509.84",
+    "4.26",
+    "45×37×7 cm",
+    "A durable, innovative toys product. The Advanced Toys Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "HOM-0706-11",
+    "Ultimate Home & Kitchen Lite",
+    "Home & Kitchen",
+    "$619.59",
+    "1.21",
+    "31×41×27 cm",
+    "A efficient, stylish home & kitchen product. The Ultimate Home & Kitchen Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "SPO-8686-12",
+    "Eco-friendly Sports Device",
+    "Sports",
+    "$812.11",
+    "4.64",
+    "14×51×14 cm",
+    "A portable, professional sports product. The Eco-friendly Sports Device is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "HOM-0083-13",
+    "Ultimate Home & Kitchen System",
+    "Home & Kitchen",
+    "$474.53",
+    "5.06",
+    "37×29×19 cm",
+    "A stylish, stylish home & kitchen product. The Ultimate Home & Kitchen System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "OFF-9931-14",
+    "Budget Office Package",
+    "Office",
+    "$363.28",
+    "6.74",
+    "20×29×29 cm",
+    "A versatile, compact office product. The Budget Office Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "HOM-2653-15",
+    "Advanced Home & Kitchen System",
+    "Home & Kitchen",
+    "$260.41",
+    "18.29",
+    "31×13×29 cm",
+    "A portable, ergonomic home & kitchen product. The Advanced Home & Kitchen System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "OFF-0630-16",
+    "Ultimate Office Package",
+    "Office",
+    "$157.93",
+    "3.29",
+    "52×45×24 cm",
+    "A professional, eco-friendly office product. The Ultimate Office Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "AUT-3499-17",
+    "Premium Automotive Bundle",
+    "Automotive",
+    "$225.01",
+    "17.22",
+    "19×33×28 cm",
+    "A durable, stylish automotive product. The Premium Automotive Bundle is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "TOY-3654-18",
+    "Luxury Toys Max",
+    "Toys",
+    "$310.06",
+    "16.45",
+    "35×9×5 cm",
+    "A portable, professional toys product. The Luxury Toys Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "TOY-2713-19",
+    "Deluxe Toys Ultra",
+    "Toys",
+    "$360.91",
+    "4.04",
+    "24×28×32 cm",
+    "A stylish, portable toys product. The Deluxe Toys Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "0",
+    "HOM-8190-0",
+    "Advanced Home & Kitchen Solution",
+    "Home & Kitchen",
+    "$943.39",
+    "13.77",
+    "13×15×10 cm",
+    "A versatile, durable home & kitchen product. The Advanced Home & Kitchen Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "1",
+    "HEA-3333-1",
+    "Luxury Health Lite",
+    "Health",
+    "$80.67",
+    "12.38",
+    "23×33×7 cm",
+    "A ergonomic, innovative health product. The Luxury Health Lite is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "2",
+    "BOO-9823-2",
+    "Classic Books Pro",
+    "Books",
+    "$725.07",
+    "11.11",
+    "35×7×10 cm",
+    "A portable, innovative books product. The Classic Books Pro is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "3",
+    "OFF-1244-3",
+    "Professional Office Ultra",
+    "Office",
+    "$880.04",
+    "17.7",
+    "42×15×21 cm",
+    "A compact, compact office product. The Professional Office Ultra is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "4",
+    "AUT-2464-4",
+    "Advanced Automotive Set",
+    "Automotive",
+    "$221.32",
+    "12.48",
+    "16×40×20 cm",
+    "A lightweight, versatile automotive product. The Advanced Automotive Set is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "5",
+    "TOY-3803-5",
+    "Portable Toys Series",
+    "Toys",
+    "$403.68",
+    "11.36",
+    "49×38×6 cm",
+    "A premium, compact toys product. The Portable Toys Series is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "6",
+    "CLO-0640-6",
+    "Innovative Clothing Kit",
+    "Clothing",
+    "$968.28",
+    "5.59",
+    "20×7×12 cm",
+    "A powerful, powerful clothing product. The Innovative Clothing Kit is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "7",
+    "GAR-4494-7",
+    "Smart Garden Solution",
+    "Garden",
+    "$512.91",
+    "17.14",
+    "7×28×26 cm",
+    "A high-quality, innovative garden product. The Smart Garden Solution is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "8",
+    "BOO-9142-8",
+    "Professional Books Max",
+    "Books",
+    "$514.58",
+    "20.1",
+    "47×39×23 cm",
+    "A powerful, professional books product. The Professional Books Max is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "9",
+    "GAR-3189-9",
+    "Portable Garden Tool",
+    "Garden",
+    "$917.34",
+    "4.72",
+    "48×41×27 cm",
+    "A stylish, compact garden product. The Portable Garden Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "10",
+    "ELE-3946-10",
+    "Premium Electronics System",
+    "Electronics",
+    "$824.27",
+    "19.4",
+    "26×54×15 cm",
+    "A efficient, compact electronics product. The Premium Electronics System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "11",
+    "BEA-5613-11",
+    "Deluxe Beauty Plus",
+    "Beauty",
+    "$628.59",
+    "18.34",
+    "45×26×8 cm",
+    "A stylish, lightweight beauty product. The Deluxe Beauty Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "12",
+    "CLO-5336-12",
+    "Eco-friendly Clothing Package",
+    "Clothing",
+    "$47.78",
+    "19.84",
+    "49×24×7 cm",
+    "A versatile, eco-friendly clothing product. The Eco-friendly Clothing Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "13",
+    "HOM-5821-13",
+    "Professional Home & Kitchen Tool",
+    "Home & Kitchen",
+    "$15.12",
+    "6.34",
+    "36×43×8 cm",
+    "A affordable, affordable home & kitchen product. The Professional Home & Kitchen Tool is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "14",
+    "BEA-6213-14",
+    "Portable Beauty Collection",
+    "Beauty",
+    "$445.91",
+    "14.38",
+    "42×24×6 cm",
+    "A innovative, powerful beauty product. The Portable Beauty Collection is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "15",
+    "ELE-6958-15",
+    "Compact Electronics System",
+    "Electronics",
+    "$470.45",
+    "9.28",
+    "16×31×6 cm",
+    "A portable, eco-friendly electronics product. The Compact Electronics System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "16",
+    "GAR-1196-16",
+    "Smart Garden Plus",
+    "Garden",
+    "$372.50",
+    "3.49",
+    "19×40×5 cm",
+    "A portable, innovative garden product. The Smart Garden Plus is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "17",
+    "BOO-2366-17",
+    "Modern Books System",
+    "Books",
+    "$203.53",
+    "9.99",
+    "14×12×7 cm",
+    "A versatile, high-quality books product. The Modern Books System is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "18",
+    "HEA-4800-18",
+    "Essential Health Package",
+    "Health",
+    "$422.26",
+    "16.28",
+    "10×49×16 cm",
+    "A premium, compact health product. The Essential Health Package is designed for maximum performance and user satisfaction."
+  ],
+  [
+    "19",
+    "BOO-8723-19",
+    "Eco-friendly Books System",
+    "Books",
+    "$506.54",
+    "6.84",
+    "54×52×32 cm",
+    "A high-quality, high-quality books product. The Eco-friendly Books System is designed for maximum performance and user satisfaction."
+  ]
+]

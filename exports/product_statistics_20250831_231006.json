@@ -1,0 +1,28 @@
+{
+  "total_products": 620,
+  "total_cost": 314816.7000000001,
+  "total_weight": 6435.7499999999945,
+  "type_counts": {
+    "Garden": 67,
+    "Electronics": 46,
+    "Toys": 63,
+    "Clothing": 63,
+    "Books": 51,
+    "Automotive": 50,
+    "Home & Kitchen": 51,
+    "Health": 68,
+    "Office": 61,
+    "Sports": 60,
+    "Beauty": 40
+  },
+  "cost_stats": {
+    "min": 10.62,
+    "max": 999.47,
+    "avg": 507.76887096774215
+  },
+  "weight_stats": {
+    "min": 0.22,
+    "max": 20.1,
+    "avg": 10.380241935483863
+  }
+}

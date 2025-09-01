@@ -103,11 +103,11 @@ def get_page_with_session(p) -> tuple[Page, BrowserContext, Browser]:
     
     # Smart waiting: Wait for page to fully load
     page.wait_for_load_state("domcontentloaded")
-    
+
     # Perform login
     login(page)
     save_session(context)
-    
+
     return page, context, browser
 
 # ============================================================================
@@ -276,6 +276,9 @@ def save_products_to_json(products: List[Dict], filename: str = PRODUCTS_FILE) -
         # Create backup of existing file
         if os.path.exists(filename):
             backup_name = f"{filename}.backup"
+            # Remove existing backup if it exists
+            if os.path.exists(backup_name):
+                os.remove(backup_name)
             os.rename(filename, backup_name)
             logger.info(f"📦 Created backup: {backup_name}")
         
@@ -289,8 +292,13 @@ def save_products_to_json(products: List[Dict], filename: str = PRODUCTS_FILE) -
         logger.error(f"❌ Failed to save products: {e}")
         # Restore backup if save failed
         if os.path.exists(f"{filename}.backup"):
-            os.rename(f"{filename}.backup", filename)
-            logger.info("🔄 Restored backup file")
+            try:
+                if os.path.exists(filename):
+                    os.remove(filename)
+                os.rename(f"{filename}.backup", filename)
+                logger.info("🔄 Restored backup file")
+            except Exception as restore_error:
+                logger.error(f"❌ Failed to restore backup: {restore_error}")
         raise
 
 # ============================================================================
@@ -315,18 +323,49 @@ def scrape_products(page: Page, existing_products: List[Dict]) -> List[Dict]:
     table_body = page.locator("table tbody")
     table_body.locator("tr").first.wait_for(state="visible", timeout=15000)
     
+    # Debug: Check table structure
+    logger.info("🔍 Analyzing table structure...")
+    try:
+        all_tables = page.locator("table").all()
+        logger.info(f"📊 Found {len(all_tables)} table elements")
+        
+        for i, table in enumerate(all_tables):
+            rows = table.locator("tr").all()
+            logger.info(f"📋 Table {i+1}: {len(rows)} rows")
+            
+            # Check for pagination elements
+            pagination_elements = table.locator("button, a, [role='button']").all()
+            logger.info(f"🔘 Table {i+1}: {len(pagination_elements)} potential pagination elements")
+            
+            for j, elem in enumerate(pagination_elements[:5]):  # Show first 5
+                try:
+                    text = elem.inner_text().strip()
+                    logger.info(f"  Element {j+1}: '{text}'")
+                except:
+                    logger.info(f"  Element {j+1}: [text not readable]")
+    except Exception as e:
+        logger.warning(f"⚠️ Could not analyze table structure: {e}")
+    
     MAX_RETRIES = 5
     scroll_pause = 0.5
     page_num = 1
     total_new_products = 0
-    
+
     while True:
         try:
             rows = table_body.locator("tr")
             total_rows = rows.count()
             any_new = False
-            
+
             logger.info(f"📄 Processing page {page_num} with {total_rows} rows")
+            
+            # Debug: Check if this page has different content
+            if page_num > 1:
+                try:
+                    first_row_text = rows.first.locator("td").first.inner_text().strip()
+                    logger.info(f"🔍 First row content on page {page_num}: '{first_row_text}'")
+                except:
+                    logger.info(f"🔍 Could not read first row content on page {page_num}")
             
             for i in range(total_rows):
                 for attempt in range(MAX_RETRIES):
@@ -339,7 +378,7 @@ def scrape_products(page: Page, existing_products: List[Dict]) -> List[Dict]:
                             continue
                         
                         row_dict = dict(zip(HEADERS, cells))
-                        
+
                         # Enhanced deduplication logic
                         item_num = row_dict["item_#"]
                         sku = row_dict["sku"]
@@ -362,9 +401,8 @@ def scrape_products(page: Page, existing_products: List[Dict]) -> List[Dict]:
                             logger.debug(f"🔄 Skipped duplicate item_#: {item_num}")
                         elif sku in seen_skus:
                             logger.debug(f"🔄 Skipped duplicate SKU: {sku}")
-                        
+
                         break
-                        
                     except Exception as e:
                         if attempt == MAX_RETRIES - 1:
                             logger.error(f"❌ Failed to process row {i+1} after {MAX_RETRIES} attempts: {e}")
@@ -378,42 +416,69 @@ def scrape_products(page: Page, existing_products: List[Dict]) -> List[Dict]:
                             except:
                                 pass
             
-            # Smart pagination handling
-            next_btn = page.locator("button:has-text('Next')").first
-            if next_btn.count() > 0 and next_btn.get_attribute("aria-disabled") != "true":
-                logger.info(f"➡️ Moving to next page...")
-                next_btn.click()
-                page.wait_for_timeout(2000)  # Increased wait time
-                table_body.locator("tr").first.wait_for(state="visible", timeout=15000)
-                page_num += 1
-            else:
-                logger.info("🏁 Reached end of pagination")
-                break
+            # Since there are no pagination buttons, we need to implement infinite scroll
+            logger.info(f"🔄 Implementing infinite scroll for page {page_num}...")
             
+            # Get the current scroll height
+            try:
+                table_handle = table_body.element_handle()
+                if table_handle:
+                    current_height = page.evaluate("table => table.scrollHeight", table_handle)
+                    logger.info(f"📏 Current table height: {current_height}")
+                    
+                    # Scroll to bottom to trigger lazy loading
+                    page.evaluate("table => table.scrollTop = table.scrollHeight", table_handle)
+                    logger.info("⬇️ Scrolled to bottom of table")
+                    
+                    # Wait for potential new content to load
+                    page.wait_for_timeout(3000)
+                    
+                    # Check if new rows were loaded
+                    new_rows = table_body.locator("tr")
+                    new_total_rows = new_rows.count()
+                    
+                    if new_total_rows > total_rows:
+                        logger.info(f"🆕 New rows loaded: {total_rows} → {new_total_rows}")
+                        # Continue processing with new rows
+                        continue
+                    else:
+                        logger.info(f"ℹ️ No new rows loaded after scroll, current total: {new_total_rows}")
+                        
+                        # Try scrolling a bit more to see if there's hidden content
+                        page.evaluate("table => table.scrollTop += 1000", table_handle)
+                        page.wait_for_timeout(2000)
+                        
+                        final_rows = table_body.locator("tr")
+                        final_total = final_rows.count()
+                        
+                        if final_total > new_total_rows:
+                            logger.info(f"🆕 Additional rows found after extra scroll: {new_total_rows} → {final_total}")
+                            continue
+                        else:
+                            logger.info(f"🏁 No more content available after infinite scroll attempts")
+                            break
+                else:
+                    logger.warning("⚠️ Could not get table handle for scrolling")
+                    break
+            except Exception as e:
+                logger.error(f"❌ Error during infinite scroll: {e}")
+                break
+
             # Save progress every 50 new products
             if total_new_products % 50 == 0 and total_new_products > 0:
                 save_products_to_json(products)
                 logger.info(f"💾 Progress saved: {len(products)} total products")
             
-            if not any_new:
-                logger.info("🔄 No new products found on this page, stopping")
-                break
+            # For infinite scroll, we don't break early - we keep scrolling until no new content
+            # Remove the early stop condition - we want to check ALL content
+            # if not any_new:
+            #     logger.info("🔄 No new products found on this page, stopping")
+            #     break
                 
         except Exception as e:
             logger.error(f"❌ Error processing page {page_num}: {e}")
-            # Try to continue with next page
-            try:
-                next_btn = page.locator("button:has-text('Next')").first
-                if next_btn.count() > 0 and next_btn.get_attribute("aria-disabled") != "true":
-                    next_btn.click()
-                    page.wait_for_timeout(2000)
-                    table_body.locator("tr").first.wait_for(state="visible", timeout=15000)
-                    page_num += 1
-                    continue
-            except:
-                pass
             break
-    
+
     logger.info(f"✅ Scraping completed: {total_new_products} new products added")
     logger.info(f"📊 Total products: {len(products)}")
     logger.info(f"🔢 Unique item_#: {len(set(p['item_#'] for p in products))}")

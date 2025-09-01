@@ -60,7 +60,7 @@ playwright install
 ```
 
 ### **Run the Automation Script**
-```bash
+   ```bash
 python iden_challenge.py
 ```
 
